@@ -47,7 +47,7 @@ require __DIR__.'/../vendor/autoload.php';
 $app = require_once __DIR__.'/../bootstrap/app.php';
 
 $kernel = $app->make(Kernel::class);
-//ini file punya rio saja jadi nih
+//ini file punya rio saja jadi nih tian coba
 $response = $kernel->handle(
     $request = Request::capture()
 )->send();
