@@ -16,3 +16,30 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/hw', function () {
+    return view('helloworld');
+});
+
+
+Route::get('/chw','mycontroller@functionhw');
+
+//SELECT
+
+Route::get('/tampilbarang','mycontroller@tampilbarang');
+
+//INSERT
+Route::get('/tambahbarang', function () {
+    return view('tambahbarang');
+});
+Route::post('/proses_insert','mycontroller@tambahbarang');
+
+//UPDATE
+
+Route::get('/editbarang/{id}','mycontroller@tampiledit');
+Route::post('/proses_edit','mycontroller@editbarang');
+
+
+//DELETE
+Route::get('/deletebarang/{id}','mycontroller@deletebarang');
+
