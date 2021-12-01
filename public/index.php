@@ -49,6 +49,7 @@ $app = require_once __DIR__.'/../bootstrap/app.php';
 $kernel = $app->make(Kernel::class);
 //ini file punya rio saja jadi nih tian coba
 //haaaahahah
+//aku tian
 
 $response = $kernel->handle(
     $request = Request::capture()
