@@ -50,6 +50,7 @@ $kernel = $app->make(Kernel::class);
 //ini file punya rio saja jadi nih tian coba
 //haaaahahah
 //aku tian
+//aku satpol
 
 $response = $kernel->handle(
     $request = Request::capture()
