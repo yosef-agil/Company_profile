@@ -53,6 +53,8 @@ $kernel = $app->make(Kernel::class);
 //aku satpol
 //akunambahin
 
+//ini file
+//ini file ku
 $response = $kernel->handle(
     $request = Request::capture()
 )->send();
