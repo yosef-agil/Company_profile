@@ -47,7 +47,11 @@ require __DIR__.'/../vendor/autoload.php';
 $app = require_once __DIR__.'/../bootstrap/app.php';
 
 $kernel = $app->make(Kernel::class);
-//ini file coba coba
+//ini file punya rio saja jadi nih tian coba
+//haaaahahah
+//aku tian
+//aku satpol
+//akunambahin
 
 //ini file
 //ini file ku
@@ -55,7 +59,6 @@ $kernel = $app->make(Kernel::class);
 //cobaaa
 $response = $kernel->handle(
     $request = Request::capture()
-
 )->send();
 
 $kernel->terminate($request, $response);
