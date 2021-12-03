@@ -22,6 +22,9 @@ Route::get('/hw', function () {
 });
 
 Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
+//home route
+Route::get('/home','App\Http\Controllers\mycontroller@functionhome');
+
 //SELECT
 
 Route::get('/tampilbarang','App\Http\Controllers\mycontroller@tampilbarang');
