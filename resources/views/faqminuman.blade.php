@@ -51,45 +51,76 @@
     </div>
     <div class="col-2">
     </div>
+
+    <div class="row ">
+    <div class="col-12">
     <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Accordion Item #1
+      1. Apa perbedaan antara Coca-Cola Zero Sugar dan Coca-Cola Light?
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <strong>Rasanya berbeda.</strong> Kedua minuman tersebut bebas gula dan bebas kalori. Coca-Cola Zero Sugar memiliki tampilan dan rasa seperti Coca-Cola Classic, sementara Coca-Cola Light memiliki perpaduan rasa berbeda yang memberikannya rasa lebih ringan.
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        Accordion Item #2
+      2. Apa perbedaan antara Coca-Cola Classic, Coca-Cola Zero Sugar dan Coca-Cola Light?
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        Coca-Cola Classic adalah produk kola original dan ikonik kami yang diluncurkan pada tahun 1886. Coca-Cola Zero memiliki tampilan dan rasa seperti Coca-Cola Classic namun memiliki kandungan bebas gula.
+        Coca-Cola Light juga merupakan minuman bebas gula namun memiliki rasa yang lebih ringan.
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        Accordion Item #3
+     3. Berapa banyak minuman yang dijual The Coca-Cola Company di seluruh dunia setiap harinya?
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      Sekitar lebih dari 1.9 miliar porsi minuman kami telah dinikmati di lebih dari 200 negara setiap harinya.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFour">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      4. Apakah The Coca-Cola Company memproduksi minuman yang sama di setiap negara?
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>Tidak.</strong> Sebagian besar produk minuman kami, seperti Coca-Cola Classic, tersedia di lebih dari 200 negara di seluruh dunia. Sejumlah produk minuman kami hanya tersedia di negara-negara tertentu.Kami menyesuaikan produk minuman kami dengan selera lokal. Beberapa rasa lebih populer di satu negara dibandingkan dengan negara lain dan seringkali ada bahan yang berbeda di negara tertentu.
+        Tahukah anda? Semua produk minuman kami di Indonesia dibuat dan dikemas di sini.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFive">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+      5. Apakah Coca-Cola memiliki rasa yang berbeda di berbagai negara?
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+      Bahan dasar dan proses yang digunakan untuk membuat Coca-Cola sama di semua negara, meskipun cara setiap orang mempersepsikan rasa sangatlah berbeda. Sangat mungkin bagi minuman ringan yang sama memiliki rasa yang sedikit berbeda karena sejumlah faktor lain seperti suhu dimana minuman tersebut dikonsumsi, atau kondisi dimana minuman tersebut disimpan sebelum dikonsumsi.
       </div>
     </div>
   </div>
 </div>
-  </div>
+    </div>
+    
+    
 </div>
 </div>
 	
