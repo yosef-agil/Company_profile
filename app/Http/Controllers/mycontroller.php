@@ -11,6 +11,21 @@ class mycontroller extends Controller
     public function functionhome(){
         return view('home');
     }
+    public function functioncompany(){
+        return view('company');
+    }
+    public function functionbrands(){
+        return view('brands');
+    }
+    public function functioncareer(){
+        return view('career');
+    }
+    public function functionnews(){
+        return view('news');
+    }
+    public function functioninvestor(){
+        return view('investor');
+    }
 
     public function tampilbarang(){
         $barang = DB::table('barang')->get();
