@@ -11,20 +11,20 @@ class mycontroller extends Controller
     public function functionhome(){
         return view('home');
     }
-    public function functioncompany(){
-        return view('company');
+    public function functionproduk(){
+        return view('produk');
     }
-    public function functionbrands(){
-        return view('brands');
+    public function functionartikel(){
+        return view('artikel');
     }
-    public function functioncareer(){
-        return view('career');
+    public function functiontujuan(){
+        return view('tujuan');
     }
-    public function functionnews(){
-        return view('news');
+    public function functiontentang(){
+        return view('tentang');
     }
-    public function functioninvestor(){
-        return view('investor');
+    public function functionfaq(){
+        return view('faq');
     }
 
     public function tampilbarang(){

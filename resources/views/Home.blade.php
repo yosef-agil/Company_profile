@@ -19,19 +19,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/company">Our Company</a>
+              <a class="nav-link active" aria-current="page" href="/home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link " href="/brands">Brands</a>
+              <a class="nav-link " href="/produk">Produk Kami</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/career">Carrers</a>
+              <a class="nav-link" href="/artikel">Artikel</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/news">News</a>
+              <a class="nav-link" href="/tujuan">Tujuan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/investor">investor</a>
+              <a class="nav-link" href="/tentang">Tentang</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/faq">FAQ</a>
             </li>
         </div>
       </div>

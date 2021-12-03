@@ -18,16 +18,16 @@ Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
 
 //home route
 Route::get('/home','App\Http\Controllers\mycontroller@functionhome');
-//our company route
-Route::get('/company','App\Http\Controllers\mycontroller@functioncompany');
-//brands route
-Route::get('/brands','App\Http\Controllers\mycontroller@functionbrands');
-//career route
-Route::get('/career','App\Http\Controllers\mycontroller@functioncareer');
-//news route
-Route::get('/news','App\Http\Controllers\mycontroller@functionnews');
-//investor route
-Route::get('/investor','App\Http\Controllers\mycontroller@functioninvestor');
+//produk route
+Route::get('/produk','App\Http\Controllers\mycontroller@functionproduk');
+//artikel route
+Route::get('/artikel','App\Http\Controllers\mycontroller@functionartikel');
+//tujuan route
+Route::get('/tujuan','App\Http\Controllers\mycontroller@functiontujuan');
+//tentang route
+Route::get('/tentang','App\Http\Controllers\mycontroller@functiontentang');
+//faq route
+Route::get('/faq','App\Http\Controllers\mycontroller@functionfaq');
 
 //SELECT
 
