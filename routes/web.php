@@ -22,24 +22,24 @@ Route::get('/hw', function () {
 });
 
 
-Route::get('/chw','mycontroller@functionhw');
+Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
 
 //SELECT
 
-Route::get('/tampilbarang','mycontroller@tampilbarang');
+Route::get('/tampilbarang','App\Http\Controllers\mycontroller@tampilbarang');
 
 //INSERT
 Route::get('/tambahbarang', function () {
     return view('tambahbarang');
 });
-Route::post('/proses_insert','mycontroller@tambahbarang');
+Route::post('/proses_insert','App\Http\Controllers\mycontroller@tambahbarang');
 
 //UPDATE
 
-Route::get('/editbarang/{id}','mycontroller@tampiledit');
-Route::post('/proses_edit','mycontroller@editbarang');
+Route::get('/editbarang/{id}','App\Http\Controllers\mycontroller@tampiledit');
+Route::post('/proses_edit','App\Http\Controllers\mycontroller@editbarang');
 
 
 //DELETE
-Route::get('/deletebarang/{id}','mycontroller@deletebarang');
+Route::get('/deletebarang/{id}','App\Http\Controllers\mycontroller@deletebarang');
 
