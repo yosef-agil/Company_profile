@@ -43,7 +43,7 @@
 
 <!-- content -->
 <div class="container">
-  <div class="row">
+  <div class="row ">
     <div class="col-2">
     </div>
     <div class="col-8" >
@@ -56,61 +56,61 @@
   <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-      <img src="..." class="card-img-top" alt="...">
+    <a href="#"> <img src="assets/FAQ/1.png" class="card-img-top" > </a>
       <div class="card-body" >
         <h3 class="card-title" >Minuman</h3>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img src="..." class="card-img-top" alt="...">
+    <a href="#"> <img src="assets/FAQ/2.png" class="card-img-top" > </a>
       <div class="card-body">
-        <h3 class="card-title">Komposisi</h3>
+      <h3 class="card-title">Komposisi</h3> 
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img src="..." class="card-img-top" alt="...">
+    <a href="#"><img src="assets/FAQ/3.png" class="card-img-top" > </a>
       <div class="card-body">
-        <h3 class="card-title">Kesehatan</h3>
+      <h3 class="card-title">Kesehatan</h3>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img src="..." class="card-img-top" alt="...">
+    <a href="#"><img src="assets/FAQ/4.png" class="card-img-top" > </a>
       <div class="card-body">
-        <h3 class="card-title">Sejarah</h3>
+      <h3 class="card-title">Sejarah</h3> 
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img src="..." class="card-img-top" alt="...">
+    <a href="#"> <img src="assets/FAQ/5.png" class="card-img-top" > </a>
       <div class="card-body">
-        <h3 class="card-title">Isu dan Rumor</h3>
+      <h3 class="card-title">Isu dan Rumor</h3>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img src="..." class="card-img-top" alt="...">
+    <a href="#"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
       <div class="card-body">
-        <h3 class="card-title">Hubungan Kami</h3>
+      <h3 class="card-title">Hubungan Kami</h3>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
