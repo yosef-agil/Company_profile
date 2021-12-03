@@ -11,6 +11,10 @@ class mycontroller extends Controller
         return view('helloworld');
     }
 
+    public function functionhome(){
+        return view('Home');
+    }
+
     public function tampilbarang(){
         $barang = DB::table('barang')->get();
 
