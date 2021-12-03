@@ -29,12 +29,6 @@
               <a class="nav-link " href="/">Brands</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/">Sustainable Bussines</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/">Better Shared Future</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" href="/">Carrers</a>
             </li>
             <li class="nav-item">

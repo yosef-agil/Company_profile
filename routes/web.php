@@ -22,8 +22,20 @@ Route::get('/hw', function () {
 });
 
 Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
+
+
 //home route
 Route::get('/home','App\Http\Controllers\mycontroller@functionhome');
+//our company route
+Route::get('/company','App\Http\Controllers\mycontroller@functioncompany');
+//brands route
+Route::get('/brands','App\Http\Controllers\mycontroller@functionbrands');
+//career route
+Route::get('/career','App\Http\Controllers\mycontroller@functioncareer');
+//news route
+Route::get('/news','App\Http\Controllers\mycontroller@functionnews');
+//investor route
+Route::get('/investor','App\Http\Controllers\mycontroller@functioninvestor');
 
 //SELECT
 
