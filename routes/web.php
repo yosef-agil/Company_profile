@@ -26,8 +26,15 @@ Route::get('/artikel','App\Http\Controllers\mycontroller@functionartikel');
 Route::get('/tujuan','App\Http\Controllers\mycontroller@functiontujuan');
 //tentang route
 Route::get('/tentang','App\Http\Controllers\mycontroller@functiontentang');
+
 //faq route
 Route::get('/faq','App\Http\Controllers\mycontroller@functionfaq');
+Route::get('/faqminuman','App\Http\Controllers\mycontroller@functionfaqminuman');
+Route::get('/faqkomposisi','App\Http\Controllers\mycontroller@functionfaqkomposisi');
+Route::get('/faqkesehatan','App\Http\Controllers\mycontroller@functionfaqkesehatan');
+Route::get('/faqsejarah','App\Http\Controllers\mycontroller@functionfaqsejarah');
+Route::get('/faqisu','App\Http\Controllers\mycontroller@functionfaqisu');
+Route::get('/faqhubungi','App\Http\Controllers\mycontroller@functionfaqhubungi');
 
 //SELECT
 

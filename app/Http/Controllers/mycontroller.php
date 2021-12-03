@@ -23,9 +23,28 @@ class mycontroller extends Controller
     public function functiontentang(){
         return view('tentang');
     }
+
+    //faq
     public function functionfaq(){
         return view('faq');
     }
+    public function functionfaqminuman(){
+        return view('faqminuman');
+    }
+    public function functionfaqkomposisi(){
+        return view('faqkomposisi');
+    }
+    public function functionfaqsejarah(){
+        return view('faqsejarah');
+    }
+    public function functionfaqisu(){
+        return view('faqisu');
+    }
+    public function functionfaqhubungi(){
+        return view('faqhubungi');
+    }
+ 
+
 
     public function tampilbarang(){
         $barang = DB::table('barang')->get();

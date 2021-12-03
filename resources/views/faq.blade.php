@@ -56,61 +56,61 @@
   <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-    <a href="#"> <img src="assets/FAQ/1.png" class="card-img-top" > </a>
+    <a href="/faqminuman"> <img src="assets/FAQ/1.png" class="card-img-top" > </a>
       <div class="card-body" >
         <h3 class="card-title" >Minuman</h3>
         <p class="card-text">Apa perbedaan antara Coca-Cola Zero Sugar dan Coca-Cola Light?</p>
-        <a href="#" class="btn btn-primary">Selanjutnya</a>
+        <a href="/faqminuman" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-    <a href="#"> <img src="assets/FAQ/2.png" class="card-img-top" > </a>
+    <a href="/faqkomposisi"> <img src="assets/FAQ/2.png" class="card-img-top" > </a>
       <div class="card-body">
       <h3 class="card-title">Komposisi</h3> 
         <p class="card-text">Berapakah kandungan gula yang terdapat di Coca-Cola Classic?</p>
-        <a href="#" class="btn btn-primary">Selanjutnya</a>
+        <a href="/faqkomposisi" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-    <a href="#"><img src="assets/FAQ/3.png" class="card-img-top" > </a>
+    <a href="/faqkesehatan"><img src="assets/FAQ/3.png" class="card-img-top" > </a>
       <div class="card-body">
       <h3 class="card-title">Kesehatan</h3>
         <p class="card-text">Berapakah kandungan gula yang terdapat di Coca-Cola Classic?</p>
-        <a href="#" class="btn btn-primary">Selanjutnya</a>
+        <a href="/faqkesehatan" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-    <a href="#"><img src="assets/FAQ/4.png" class="card-img-top" > </a>
+    <a href="/faqsejarah"><img src="assets/FAQ/4.png" class="card-img-top" > </a>
       <div class="card-body">
       <h3 class="card-title">Sejarah</h3> 
         <p class="card-text">Siapa yang pertama kali menemukan Coca-Cola?</p>
-        <a href="#" class="btn btn-primary">Selanjutnya</a>
+        <a href="/faqsejarah" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-    <a href="#"> <img src="assets/FAQ/5.png" class="card-img-top" > </a>
+    <a href="/faqisu"> <img src="assets/FAQ/5.png" class="card-img-top" > </a>
       <div class="card-body">
       <h3 class="card-title">Isu dan Rumor</h3>
         <p class="card-text">Apakah benar Coca-Cola mengandung kokain?</p>
-        <a href="#" class="btn btn-primary">Selanjutnya</a>
+        <a href="/faqisu" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-    <a href="#"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
+    <a href="/faqhubungi"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
       <div class="card-body">
       <h3 class="card-title">Hubungan Kami</h3>
         <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia, Coca-Cola Amatil Indonesia</p>
-        <a href="#" class="btn btn-primary">Selanjutnya</a>
+        <a href="/faqhubungi" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
   </div>
