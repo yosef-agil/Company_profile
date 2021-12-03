@@ -19,3 +19,9 @@ body{
     font-size:14px;
 }
 
+
+/* Css beranda */
+.col-md-6 p{
+    padding-top: 20px;
+    padding-bottom: 45px;
+}

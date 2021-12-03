@@ -43,18 +43,24 @@
 
 <!-- content -->
 <div class="container">
-  <div class="row">
-    <div class="col-md-6">
-      <h2>Gandeng Anak-anak muda, Cola-cola Luncurkan Program Plastic Reborn 2.0</h2>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Fuga ab fugit alias ut. Repellendus esse inventore id nihil 
-        accusantium a exercitationem quo libero, amet eaque.
-      </p>
-    </div>
-    <div class="col-md-6">
-      <img src="{{ ('assets/beranda/img1-beranda.png') }}" alt="">
-    </div>
+  <div class="row align-self-center" style="margin:110px 8px 110px 8px;">
+
+     <!-- Heading & title -->
+      <div class="col-md-6">
+        <h2>Gandeng Anak-anak muda, Cola-cola Luncurkan Program Plastic Reborn 2.0</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Fuga ab fugit alias ut. Repellendus esse inventore id nihil 
+          accusantium a exercitationem quo libero, amet eaque.
+        </p>
+        <button class="btn btn-primary"><a href="/"></a>Baca lagi</button>
+      </div>
+
+      <!-- image -->
+      <div class="col-md-6">
+        <img style=" width:100%;" src="{{ ('assets/beranda/img1-beranda.png') }}" alt="">
+      </div>
+
   </div>
 </div>
 	
