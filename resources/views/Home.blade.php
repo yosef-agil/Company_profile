@@ -4,7 +4,7 @@
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
   <style>
     .navbar{
-
+      height: 100px;
     }
   </style>
 </head>
@@ -18,11 +18,30 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link " aria-current="page" href="/tampilbarang">Data Barang</a>
+          <a class="nav-link active" aria-current="page" href="/">Our Company</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="/tambahbarang">Tambah Barang</a>
+          <a class="nav-link " href="/">Brands</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/">Sustainable Bussines</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/">Better Shared Future</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/">Carrers</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/">News</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/">investor</a>
+        </li>
+      <form class="d-flex">
+      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success" type="submit">Search</button>
+    </form>
     </div>
   </div>
 </nav>
@@ -32,24 +51,6 @@
     <div class="col-2">
     </div>
     <div class="col-8">
-
-      <h5>Tambah Barang</h5>
-
-      <form method="POST" action="/proses_insert">
-		{{ csrf_field() }}
-
-		  <div class="mb-3">
-		    <label for="exampleInputEmail1" class="form-label">Kode Barang</label>
-		    <input type="number" name="kode_barang" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-
-		    <label for="exampleInputEmail1" class="form-label">Nama Barang</label>
-		    <input type="text" name="nama_barang" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-
-		    <label for="exampleInputEmail1" class="form-label">Harga Barang</label>
-		    <input type="number" name="harga_barang" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-		  </div>
-		  <button type="submit"  value="Tambah" class="btn btn-primary">Tambah</button>
-	</form>
     </div>
     <div class="col-2">
     </div>
