@@ -2,9 +2,14 @@
 <head>
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
+  <style>
+    .navbar{
+
+    }
+  </style>
 </head>
 <body>
-	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Coca Cola</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,12 +32,6 @@
     <div class="col-2">
     </div>
     <div class="col-8">
-
-      <nav aria-label="breadcrumb">
-	  <ol class="breadcrumb">
-	    <li class="breadcrumb-item active" aria-current="page">Tambah Barang</li>
-	  </ol>
-	</nav>
 
       <h5>Tambah Barang</h5>
 
