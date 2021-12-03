@@ -21,7 +21,6 @@ Route::get('/hw', function () {
     return view('helloworld');
 });
 
-
 Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
 //home route
 Route::get('/home','App\Http\Controllers\mycontroller@functionhome');
@@ -34,13 +33,12 @@ Route::get('/tampilbarang','App\Http\Controllers\mycontroller@tampilbarang');
 Route::get('/tambahbarang', function () {
     return view('tambahbarang');
 });
-Route::post('/proses_insert','App\Http\Controllers\mycontroller@tambahbarang');
 
+Route::post('/proses_insert','App\Http\Controllers\mycontroller@tambahbarang');
 //UPDATE
 
 Route::get('/editbarang/{id}','App\Http\Controllers\mycontroller@tampiledit');
 Route::post('/proses_edit','App\Http\Controllers\mycontroller@editbarang');
-
 
 //DELETE
 Route::get('/deletebarang/{id}','App\Http\Controllers\mycontroller@deletebarang');
