@@ -13,14 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/hw', function () {
-    return view('helloworld');
-});
-
 Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
 
 

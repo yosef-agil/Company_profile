@@ -7,9 +7,6 @@ use Illuminate\Support\Facades\DB;
 
 class mycontroller extends Controller
 {
-    public function functionhw(){
-        return view('helloworld');
-    }
 
     public function functionhome(){
         return view('home');
