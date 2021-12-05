@@ -42,15 +42,33 @@
   </div>
 
 <!-- content -->
-<div class="container" style="padding-top: 100px;">
-  <div class="row">
+<div class="container" style="padding-top: 100px; ">
+  <div class="text-center"  class="row">
     <div class="col-2">
     </div>
     <div class="col-8">
     </div>
+    <h3 >Misi, Visi & Nilai</h3>
     <div class="col-2">
     </div>
+
+    <div class="col-12" >
+    <img src="assets/tentang/1.jpg" >
+
+    </div>
   </div>
+
+  <div  class="row" style="padding-top: 20px; " >
+    <div class="col-2">
+    </div>
+    <div class="col-8">
+    Dunia terus berubah di sekitar kita. Untuk dapat terus berkembang sebagai bisnis selama sepuluh tahun ke depan dan seterusnya, kami harus melihat ke depan, memahami berbagai tren dan faktor yang akan membentuk bisnis kami di masa depan serta bergerak cepat untuk mempersiapkan diri demi menghadapi tantangan yang akan datang. Kami harus bersiap untuk hari esok mulai hari ini. Itulah Visi 2020 kami. Visi ini menciptakan sebuah tujuan jangka panjang bagi bisnis kami dan memberikan kami sebuah "Peta Jalan" untuk meraih kesuksesan bersama para mitra pembotolan kami.
+    </div>
+    <div class="col-2">
+    </div>
+    </div>
+  </div>
+
 </div>
 	
 </body>
