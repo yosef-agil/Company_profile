@@ -34,6 +34,9 @@ class mycontroller extends Controller
     public function functionfaqkomposisi(){
         return view('faqkomposisi');
     }
+    public function functionfaqkesehatan(){
+        return view('faqkesehatan');
+    }
     public function functionfaqsejarah(){
         return view('faqsejarah');
     }

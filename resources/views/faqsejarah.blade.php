@@ -58,65 +58,69 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-      1. Apa perbedaan antara Coca-Cola Zero Sugar dan Coca-Cola Light?
+      1. Siapa yang pertama kali menemukan Coca-Cola?
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>Rasanya berbeda.</strong> Kedua minuman tersebut bebas gula dan bebas kalori. Coca-Cola Zero Sugar memiliki tampilan dan rasa seperti Coca-Cola Classic, sementara Coca-Cola Light memiliki perpaduan rasa berbeda yang memberikannya rasa lebih ringan.
+       <strong> Dr John S Pemberton. </strong>Beliau menemukan Coca-Cola pada 8 Mei 1886 di Atlanta, Georgia. Dr Pemberton menguji minuman tersebut pada pelanggan di apotek setempat, Jacobs’ Pharmacy, yang kemudian menjadi sangat populer dan dijual dengan harga lima sen per gelas.
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-      2. Apa perbedaan antara Coca-Cola Classic, Coca-Cola Zero Sugar dan Coca-Cola Light?
+      2. Dimanakah formula rahasia Coca-Cola disimpan? 
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Coca-Cola Classic adalah produk kola original dan ikonik kami yang diluncurkan pada tahun 1886. Coca-Cola Zero memiliki tampilan dan rasa seperti Coca-Cola Classic namun memiliki kandungan bebas gula.
-        Coca-Cola Light juga merupakan minuman bebas gula namun memiliki rasa yang lebih ringan.
-      </div>
+      <strong>Disimpan di The Vault of the Secret Formula yang bertempat di World of Coca-Cola di Amerika Serikat.</strong> Formula rahasia Coca-Cola telah mengalami perjalanan yang menarik selama bertahun-tahun:
+    1886 – Dr John S. Pemberton menemukan Coca-Cola di Atlanta.
+    1892 – Asa Candler membeli hak bisnis Coca-Cola dan formula rahasianya.
+    1919 – Ernest Woodruff dan sekelompok investor membeli perusahaan tersebut dari Candler dan menjadikan formula rahasia sebagai jaminan pinjaman. Woodruff meminta putra Candler menuliskan rumus tersebut dan meletakkan kertasnya di lemari besi di Guaranty Bank, New York.
+    1925 – Woodruff membayar kembali pinjamannya dan menebus formula rahasia, membawanya pulang ke Atlanta dan menyimpannya di Trust Company Bank.
+    2011 – Setelah 86 tahun, formula rahasia dipindahkan ke World of Coca-Cola di Atlanta. Ribuan orang mengunjungi Vault of the Secret Formula setiap tahunnya.
+          </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-     3. Berapa banyak minuman yang dijual The Coca-Cola Company di seluruh dunia setiap harinya?
+     3. Apakah benar Coca-Cola pada awalnya merupakan obat?
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      Sekitar lebih dari 1.9 miliar porsi minuman kami telah dinikmati di lebih dari 200 negara setiap harinya.
+      <strong>Tidak benar.</strong>Coca-Cola tidak diciptakan sebagai obat namun ditemukan oleh seorang dokter dan apoteker bernama Dr John S Pemberton.
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFour">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-      4. Apakah The Coca-Cola Company memproduksi minuman yang sama di setiap negara?
+      4. Kapan Coca-Cola pertama kali tersedia di Indonesia?
       </button>
     </h2>
-    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>Tidak.</strong> Sebagian besar produk minuman kami, seperti Coca-Cola Classic, tersedia di lebih dari 200 negara di seluruh dunia. Sejumlah produk minuman kami hanya tersedia di negara-negara tertentu.Kami menyesuaikan produk minuman kami dengan selera lokal. Beberapa rasa lebih populer di satu negara dibandingkan dengan negara lain dan seringkali ada bahan yang berbeda di negara tertentu.
-        Tahukah anda? Semua produk minuman kami di Indonesia dibuat dan dikemas di sini.
+      Coca-Cola pertama kali didistribusikan di Indonesia pada tahun 1927 dan diproduksi secara local pada tahun 1932
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFive">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-      5. Apakah Coca-Cola memiliki rasa yang berbeda di berbagai negara?
+      5. Kapan The Coca-Cola Company pertama kali didirikan?
       </button>
     </h2>
-    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      Bahan dasar dan proses yang digunakan untuk membuat Coca-Cola sama di semua negara, meskipun cara setiap orang mempersepsikan rasa sangatlah berbeda. Sangat mungkin bagi minuman ringan yang sama memiliki rasa yang sedikit berbeda karena sejumlah faktor lain seperti suhu dimana minuman tersebut dikonsumsi, atau kondisi dimana minuman tersebut disimpan sebelum dikonsumsi.
-      </div>
+      <strong>Tahun 1892. </strong>  Meskipun Coca-Cola ditemukan dan pertama kali dijual pada tahun 1888, formula rahasia dan brand Coca-Cola sendiri baru dibeli pada tahun 1889 oleh Asa Griggs Candler, yang menggabungkannya ke dalam The Coca-Cola Company tiga tahun kemudian. Pada tanggal 5 Desember 1919, sebuah konsorsium pengusaha yang dipimpin Ernest Woodruff, ayah Robert W. Woodruff, membeli The Coca-Cola Company seharga $25 juta dan langsung memasukannya ke pasar saham New York.
+       </div>
     </div>
   </div>
+
 </div>
     </div>
     
