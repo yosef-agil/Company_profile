@@ -99,6 +99,36 @@
     <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
     <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
 
+    <h5 style="padding-top: 10px; ">Fokus pada Pasar</h5>
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
+    <h5 style="padding-top: 10px; ">Bekerja Cerdas</h5>
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
+    <h5 style="padding-top: 10px; ">Bertindak Seperti Pemimpin</h5>
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
     </div>
     <div class="col-2">
     </div>
