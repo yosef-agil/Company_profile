@@ -7,10 +7,10 @@
 <body>
   <!-- navbar -->
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
       <div class="container-fluid">
         <div class="brand">
-            <a class="navbar-brand" href="#">Coca Cola</a>
+           <a class="navbar-brand" href="#" style="padding-left: 50px;">Coca Cola</a>
         </div>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,7 +42,7 @@
   </div>
 
 <!-- content -->
-<div class="container">
+<div class="container" style="padding-top: 50px;">
   <div class="row align-self-center" style="margin:110px 8px 110px 8px;">
 
      <!-- Heading & title -->
