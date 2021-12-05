@@ -3,7 +3,7 @@
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
   <link href="{{asset('/css/master.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
-</head>
+</head height>
 <body>
   <!-- navbar -->
   <div class="container">
@@ -16,7 +16,7 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent" >
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a class="nav-link" aria-current="page" href="/home">Home</a>
@@ -42,7 +42,7 @@
   </div>
 
 <!-- content -->
-<div class="container">
+<div class="container" style="padding-top: 50px;">
   <div class="row">
     <div class="col-2">
     </div>
@@ -54,21 +54,21 @@
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item active bg-dark">
       <img style=" width:100%;"  class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}" alt="">
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item bg-dark">
     <img style=" width:100%;"  class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}" alt="">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item bg-dark">
     <img style=" width:100%;"  class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}" alt="">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
@@ -88,13 +88,13 @@
     </div>
     <div class="col-2">
     </div>
-    <div class="row">
-    <div class="col">
+    <div class="row" style="padding-top: 50px;">
+    <div class="col-2">
     </div>
-    <div class="col">
-    <p>Some representative placeholder content for the third slide.</p>
+    <div class="col-8">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ab fugit alias ut. Repellendus esse inventore id nihil accusantium a exercitationem quo libero, amet eaque.</p>
     </div>
-    <div class="col">
+    <div class="col-2">
     </div>
     </div>
   </div>
