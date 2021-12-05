@@ -8,7 +8,7 @@
 <body>
   <!-- navbar -->
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" >
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
       <div class="container-fluid">
         <div class="brand">
             <a class="navbar-brand" href="#" style="padding-left: 50px;">Coca Cola</a>
@@ -43,7 +43,7 @@
   </div>
 
 <!-- content -->
-<div class="container" style="padding-top: 50px;">
+<div class="container" style="padding-top: 100px;">
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
