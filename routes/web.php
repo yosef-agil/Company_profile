@@ -18,15 +18,28 @@ Route::get('/chw','App\Http\Controllers\mycontroller@functionhw');
 
 //home route
 Route::get('/home','App\Http\Controllers\mycontroller@functionhome');
-//produk route
-Route::get('/produk','App\Http\Controllers\mycontroller@functionproduk');
+
 //artikel route
 Route::get('/artikel','App\Http\Controllers\mycontroller@functionartikel');
 //tujuan route
 Route::get('/tujuan','App\Http\Controllers\mycontroller@functiontujuan');
 //tentang route
 Route::get('/tentang','App\Http\Controllers\mycontroller@functiontentang');
-
+//produk route
+Route::get('/produk','App\Http\Controllers\mycontroller@functionproduk');
+Route::get('/produk1','App\Http\Controllers\mycontroller@functionproduk1');
+Route::get('/produk2','App\Http\Controllers\mycontroller@functionproduk2');
+Route::get('/produk3','App\Http\Controllers\mycontroller@functionproduk3');
+Route::get('/produk4','App\Http\Controllers\mycontroller@functionproduk4');
+Route::get('/produk5','App\Http\Controllers\mycontroller@functionproduk5');
+Route::get('/produk6','App\Http\Controllers\mycontroller@functionproduk6');
+Route::get('/produk7','App\Http\Controllers\mycontroller@functionproduk7');
+Route::get('/produk8','App\Http\Controllers\mycontroller@functionproduk8');
+Route::get('/produk9','App\Http\Controllers\mycontroller@functionproduk9');
+Route::get('/produk10','App\Http\Controllers\mycontroller@functionproduk10');
+Route::get('/produk11','App\Http\Controllers\mycontroller@functionproduk11');
+Route::get('/produk12','App\Http\Controllers\mycontroller@functionproduk12');
+Route::get('/produk13','App\Http\Controllers\mycontroller@functionproduk13');
 //faq route
 Route::get('/faq','App\Http\Controllers\mycontroller@functionfaq');
 Route::get('/faqminuman','App\Http\Controllers\mycontroller@functionfaqminuman');

@@ -52,7 +52,7 @@
         <h5 class="card-title">Ades</h5>
         <p class="card-text">Peluncuran Ades baru dari The Coca-Cola Company 
           ini menampilkan Ades sebagai air minum dalam kemasan yang Murni, Aman dan Terpercaya, yang dijamin oleh The Coca-Cola Company.</p>
-          <a href="#" class="btn btn-primary">Details</a>
+          <a href="/produk1" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@
         <h5 class="card-title">Aquarius</h5>
         <p class="card-text">Aquarius adalah produk The Coca-Cola Company. Diperkenalkan pertama kali di Jepang pada tahun 1980an,
           kini Aquarius hadir di Indonesia untuk menemanimu beraktifitas berat dan berkeringat.</p>
-          <a href="#" class="btn btn-primary">Details</a>
+          <a href="/produk2" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@
       <div class="card-body">
         <h5 class="card-title">Coca Cola</h5>
         <p class="card-text">Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia.</p>
-        <a href="#" class="btn btn-primary">Details</a>
+        <a href="/produk3" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>
