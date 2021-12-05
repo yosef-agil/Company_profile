@@ -64,7 +64,7 @@
     <div class="col-8">
     Dunia terus berubah di sekitar kita. Untuk dapat terus berkembang sebagai bisnis selama sepuluh tahun ke depan dan seterusnya, kami harus melihat ke depan, memahami berbagai tren dan faktor yang akan membentuk bisnis kami di masa depan serta bergerak cepat untuk mempersiapkan diri demi menghadapi tantangan yang akan datang. Kami harus bersiap untuk hari esok mulai hari ini. Itulah Visi 2020 kami. Visi ini menciptakan sebuah tujuan jangka panjang bagi bisnis kami dan memberikan kami sebuah "Peta Jalan" untuk meraih kesuksesan bersama para mitra pembotolan kami.
     
-    <h5 style="padding-top: 10px; "><strong>Misi Kami</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Misi Kami</strong></h5>
     
     Peta Jalan kami dimulai dengan misi kami untuk terus bertahan. Misi ini menegaskan tujuan kami sebagai sebuah perusahaan dan berfungsi sebagai standar yang menjadi tolok ukur seluruh tindakan dan keputusan kami.
 
@@ -72,7 +72,7 @@
     <li>Untuk menginspirasi momen penuh optimisme dan kebahagiaan...</li> 
     <li>Untuk menciptakan nilai dan membuat perbedaan.</li> 
 
-    <h5 style="padding-top: 10px; "><strong>Visi Kami</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Visi Kami</strong></h5>
     
     Visi kami membentuk kerangka kerja Peta Jalan kami dan memandu setiap aspek dari bisnis kami dengan menjelaskan target yang perlu kami capai untuk terus meraih pertumbuhan yang berkelanjutan dan berkualitas.
 
@@ -85,11 +85,11 @@
     <li><strong>Produktivitas: </strong> Menjadi organisasi yang sangat efektif, terstruktur, dan bergerak cepat.</li> 
     </div>
 
-    <h5 style="padding-top: 10px; "><strong>Budaya Kesuksesan Kami</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Budaya Kesuksesan Kami</strong></h5>
 
     Budaya Kesuksesan Kami mempertegas segala sikap dan perilaku yang diperlukan untuk menjadikan Visi 2020 kami sebuah kenyataan.
 
-    <h5 style="padding-top: 10px; ">Mewujudkan Nilai Perusahaan</h5>
+    <h5 style="padding-top: 15px; "><strong>Mewujudkan Nilai Perusahaan</strong></h5>
 
     Nilai-nilai perusahaan kami berfungsi sebagai kompas atas tindakan kami dan mengilustrasikan cara kami berperilaku di seluruh dunia.
 
@@ -103,7 +103,7 @@
     <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
     </div>
 
-    <h5 style="padding-top: 10px; "><strong>Fokus pada Pasar</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Fokus pada Pasar</strong></h5>
 
     
     <li >Fokus pada kebutuhan konsumen, pelanggan dan mitra waralaba kami</li> 
@@ -113,7 +113,7 @@
     <li>Bersikap selalu ingin tahu</li> 
     
 
-    <h5 style="padding-top: 10px; "><strong>Bekerja Cerdas</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Bekerja Cerdas</strong></h5>
 
     <li>Bertindak dengan urgensi</li> 
     <li>Tetap responsif terhadap perubahan</li> 
@@ -121,13 +121,13 @@
     <li>Tak mudah puas secara konstruktif</li> 
     <li>Bekerja secara efisien</li> 
 
-    <h5 style="padding-top: 10px; "><strong>Bertindak Seperti Pemimpin</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Bertindak Seperti Pemimpin</strong></h5>
 
     <li>Bertanggung jawab atas semua tindakan yang dilakukan dan tidak dilakukan</li> 
     <li>Mempertahankan aset sistem dan fokus pada pembangunan nilai</li> 
     <li>Memberikan penghargaan kepada pegawai karena telah mengambil risiko dan menemukan cara yang lebih baik untuk memecahkan masalah</li> 
 
-    <h5 style="padding-top: 10px; "><strong>Memaknai Merek</strong></h5>
+    <h5 style="padding-top: 15px; "><strong>Memaknai Merek</strong></h5>
 
     <li>Menginspirasi kreativitas, semangat, optimisme dan kebahagiaan</li> 
 
