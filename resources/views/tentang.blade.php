@@ -76,12 +76,12 @@
     
     Visi kami membentuk kerangka kerja Peta Jalan kami dan memandu setiap aspek dari bisnis kami dengan menjelaskan target yang perlu kami capai untuk terus meraih pertumbuhan yang berkelanjutan dan berkualitas.
 
-    <li><strong>Kepemimpinan: </strong> Menjadi tempat kerja yang baik dimana orang dapat terinspirasi untuk memenuhi potensi mereka.</li> 
-    <li><strong>Kepemimpinan: </strong> Menghadirkan portofolio merek minuman berkualitas yang mampu mengantisipasi dan memuaskan keinginan dan kebutuhan orang ke seluruh dunia.</li> 
-    <li>Mitra: Menjaga jaringan pelanggan dan pemasok yang unggul, bersama menciptakan nilai bersama yang mampu bertahan lama.</li> 
-    <li>Planet: Menjadi warga negara yang bertanggung jawab yang membuat perbedaan dengan membantu membangun dan mendukung masyarakat yang berkelanjutan.</li> 
-    <li>Keuntungan: Memaksimalkan pengembalian jangka panjang kepada pemilik saham dengan memperhatikan tanggung jawab secara keseluruhan.</li> 
-    <li>Produktivitas: Menjadi organisasi yang sangat efektif, terstruktur, dan bergerak cepat.</li> 
+    <li><strong>SDM: </strong> Menjadi tempat kerja yang baik dimana orang dapat terinspirasi untuk memenuhi potensi mereka.</li> 
+    <li><strong>Portofolio: </strong> Menghadirkan portofolio merek minuman berkualitas yang mampu mengantisipasi dan memuaskan keinginan dan kebutuhan orang ke seluruh dunia.</li> 
+    <li><strong>Mitra: </strong> Menjaga jaringan pelanggan dan pemasok yang unggul, bersama menciptakan nilai bersama yang mampu bertahan lama.</li> 
+    <li><strong>Planet: </strong> Menjadi warga negara yang bertanggung jawab yang membuat perbedaan dengan membantu membangun dan mendukung masyarakat yang berkelanjutan.</li> 
+    <li><strong>Keuntungan: </strong> Memaksimalkan pengembalian jangka panjang kepada pemilik saham dengan memperhatikan tanggung jawab secara keseluruhan.</li> 
+    <li><strong>Produktivitas: </strong> Menjadi organisasi yang sangat efektif, terstruktur, dan bergerak cepat.</li> 
 
     <h5 style="padding-top: 10px; ">Budaya Kesuksesan Kami</h5>
 
@@ -92,12 +92,12 @@
     Nilai-nilai perusahaan kami berfungsi sebagai kompas atas tindakan kami dan mengilustrasikan cara kami berperilaku di seluruh dunia.
 
     <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
-    <li><strong>Kepemimpinan: </strong> Memanfaatkan kecerdasan kolektif</li> 
-    <li><strong>Kepemimpinan: </strong> Jujur kepada diri sendiri dan orang lain</li> 
-    <li><strong>Kepemimpinan: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
-    <li><strong>Kepemimpinan: </strong> Berkomitmen dalam hati dan pikiran.</li> 
-    <li><strong>Kepemimpinan: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
-    <li><strong>Kepemimpinan: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
 
     </div>
     <div class="col-2">
