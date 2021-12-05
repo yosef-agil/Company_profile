@@ -7,7 +7,7 @@
 <body>
   <!-- navbar -->
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg  navbar-light bg-light">
       <div class="container-fluid">
         <div class="brand">
             <a class="navbar-brand" href="#">Coca Cola</a>
