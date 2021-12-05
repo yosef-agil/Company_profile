@@ -58,14 +58,81 @@
     </div>
   </div>
 
-  <div  class="row" style="padding-top: 20px; " >
+  <div  class="row" style="padding-top: 20px; "  >
     <div class="col-2">
     </div>
     <div class="col-8">
     Dunia terus berubah di sekitar kita. Untuk dapat terus berkembang sebagai bisnis selama sepuluh tahun ke depan dan seterusnya, kami harus melihat ke depan, memahami berbagai tren dan faktor yang akan membentuk bisnis kami di masa depan serta bergerak cepat untuk mempersiapkan diri demi menghadapi tantangan yang akan datang. Kami harus bersiap untuk hari esok mulai hari ini. Itulah Visi 2020 kami. Visi ini menciptakan sebuah tujuan jangka panjang bagi bisnis kami dan memberikan kami sebuah "Peta Jalan" untuk meraih kesuksesan bersama para mitra pembotolan kami.
+    
+    <h5 style="padding-top: 10px; ">Misi Kami</h5>
+    
+    Peta Jalan kami dimulai dengan misi kami untuk terus bertahan. Misi ini menegaskan tujuan kami sebagai sebuah perusahaan dan berfungsi sebagai standar yang menjadi tolok ukur seluruh tindakan dan keputusan kami.
+
+    <li>Untuk menyegarkan dunia...</li> 
+    <li>Untuk menginspirasi momen penuh optimisme dan kebahagiaan...</li> 
+    <li>Untuk menciptakan nilai dan membuat perbedaan.</li> 
+
+    <h5 style="padding-top: 10px; ">Visi Kami</h5>
+    
+    Visi kami membentuk kerangka kerja Peta Jalan kami dan memandu setiap aspek dari bisnis kami dengan menjelaskan target yang perlu kami capai untuk terus meraih pertumbuhan yang berkelanjutan dan berkualitas.
+
+    <li><strong>SDM: </strong> Menjadi tempat kerja yang baik dimana orang dapat terinspirasi untuk memenuhi potensi mereka.</li> 
+    <li><strong>Portofolio: </strong> Menghadirkan portofolio merek minuman berkualitas yang mampu mengantisipasi dan memuaskan keinginan dan kebutuhan orang ke seluruh dunia.</li> 
+    <li><strong>Mitra: </strong> Menjaga jaringan pelanggan dan pemasok yang unggul, bersama menciptakan nilai bersama yang mampu bertahan lama.</li> 
+    <li><strong>Planet: </strong> Menjadi warga negara yang bertanggung jawab yang membuat perbedaan dengan membantu membangun dan mendukung masyarakat yang berkelanjutan.</li> 
+    <li><strong>Keuntungan: </strong> Memaksimalkan pengembalian jangka panjang kepada pemilik saham dengan memperhatikan tanggung jawab secara keseluruhan.</li> 
+    <li><strong>Produktivitas: </strong> Menjadi organisasi yang sangat efektif, terstruktur, dan bergerak cepat.</li> 
+
+    <h5 style="padding-top: 10px; ">Budaya Kesuksesan Kami</h5>
+
+    Budaya Kesuksesan Kami mempertegas segala sikap dan perilaku yang diperlukan untuk menjadikan Visi 2020 kami sebuah kenyataan.
+
+    <h5 style="padding-top: 10px; ">Mewujudkan Nilai Perusahaan</h5>
+
+    Nilai-nilai perusahaan kami berfungsi sebagai kompas atas tindakan kami dan mengilustrasikan cara kami berperilaku di seluruh dunia.
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
+    <h5 style="padding-top: 10px; ">Fokus pada Pasar</h5>
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
+    <h5 style="padding-top: 10px; ">Bekerja Cerdas</h5>
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
+    <h5 style="padding-top: 10px; ">Bertindak Seperti Pemimpin</h5>
+
+    <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li> 
+    <li><strong>Kolaborasi: </strong> Memanfaatkan kecerdasan kolektif</li> 
+    <li><strong>Integritas: </strong> Jujur kepada diri sendiri dan orang lain</li> 
+    <li><strong>Akuntabilitas: </strong> Jika suatu hal terjadi, saya harus bertanggung jawab</li> 
+    <li><strong>Semangat: </strong> Berkomitmen dalam hati dan pikiran.</li> 
+    <li><strong>Keanekaragaman: </strong> Selalu bersikap inklusif seperti halnya merek kami</li> 
+    <li><strong>Kualitas: </strong> Melakukan yang terbaik dalam semua yang kami lakukan</li> 
+
     </div>
     <div class="col-2">
     </div>
+  
     </div>
   </div>
 
