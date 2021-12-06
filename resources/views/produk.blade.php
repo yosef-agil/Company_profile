@@ -8,7 +8,7 @@
 <body>
   <!-- navbar -->
   <div class="container">
-  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light"  style="height: 80px;">
       <div class="container-fluid">
         <div class="brand">
             <a class="navbar-brand" href="#" style="padding-left: 50px;">Coca Cola</a>
@@ -120,7 +120,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-    <img style=" width:50%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/fan.png') }}" alt="">
+    <img style=" width:54%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/fan.png') }}" alt="">
       <div class="card-body">
       <h5 class="card-title">Fanta</h5>
         <p class="card-text" style=" text-align: justify;">Fanta adalah merek tertua kedua The Coca-Cola Company dan merek terbesar kedua  di luar Amerika Serikat.
@@ -131,7 +131,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-    <img style=" width:80%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/aw.png') }}" alt="">
+    <img style=" width:81%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/aw.png') }}" alt="">
       <div class="card-body">
       <h5 class="card-title">A&W</h5>
         <p class="card-text" style=" text-align: justify;">Merek minuman jenis root beer yang terutama tersedia di Amerika Serikat dan Kanada. </p>
