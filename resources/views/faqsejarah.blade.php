@@ -41,7 +41,7 @@
     </nav>
   </div>
 <!-- content -->
-<div class="container" style="padding-top: 20px; ">
+<div class="container" style="padding-top: 50px; ">
   <div class="row ">
     <div class="col-2">
     </div>
