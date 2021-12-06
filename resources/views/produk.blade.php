@@ -47,7 +47,7 @@
   <div class="row row-cols-1 row-cols-md-3 g-4">
     <div class="col">
       <div class="card h-100">
-      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+      <img style=" width:80%; margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
         <div class="card-body">
           <h5 class="card-title">Ades</h5>
           <p class="card-text" style=" text-align: justify;">Peluncuran Ades baru dari The Coca-Cola Company 
@@ -59,7 +59,7 @@
 
     <div class="col">
       <div class="card h-100">
-      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/aqua.png') }}" alt="">
+      <img style=" width:80%;  margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/aqua.png') }}" alt="">
         <div class="card-body">
           <h5 class="card-title">Aquarius</h5>
           <p class="card-text" style=" text-align: justify;">Aquarius adalah produk The Coca-Cola Company. Diperkenalkan pertama kali di Jepang pada tahun 1980an,
@@ -71,7 +71,7 @@
 
     <div class="col">
       <div class="card h-100">
-      <img style=" width:60%;" class="card-img-top" src="{{ ('assets/produk/coca.png') }}" alt="">
+      <img style=" width:45%; margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/coca.png') }}" alt="">
         <div class="card-body">
           <h5 class="card-title">Coca Cola</h5>
           <p class="card-text" style=" text-align: justify;">Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia.</p>
@@ -84,7 +84,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
     <div class="col">
       <div class="card h-100">
-      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/maid.png') }}" alt="">
+      <img style=" width:80%; margin-left: auto; margin-right: auto; " class="card-img-top" src="{{ ('assets/produk/maid.png') }}" alt="">
         <div class="card-body">
           <h5 class="card-title">Minute Maid</h5>
           <p class="card-text" style=" text-align: justify;">Minute Maid Minuman yang mengandung susu asli dan sari buah bikin kombinasi yang Mix enaxx! Tersedia dalam 4 rasa menarik, jeruk, stroberi, mangga dan apel.</p>
@@ -95,7 +95,7 @@
 
     <div class="col">
       <div class="card h-100">
-      <img style=" width:60%;" class="card-img-top" src="{{ ('assets/produk/fres.png') }}" alt="">
+      <img style=" width:50%; margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/fres.png') }}" alt="">
         <div class="card-body">
         <h5 class="card-title">Frestea</h5>
           <p class="card-text" style=" text-align: justify;">Frestea menggunakan standar kualitas tinggi The Coca-Cola Company, 
@@ -107,7 +107,7 @@
 
     <div class="col">
       <div class="card h-100">
-      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/spri.png') }}" alt="">
+      <img style=" width:82%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/spri.png') }}" alt="">
         <div class="card-body">
         <h5 class="card-title">Sprite</h5>
           <p class="card-text" style=" text-align: justify;">Sprite adalah minuman ringan dengan aroma rasa lemon-jeruk terkemuka di dunia.</p>
@@ -120,7 +120,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-    <img style=" width:70%;" class="card-img-top" src="{{ ('assets/produk/fan.png') }}" alt="">
+    <img style=" width:50%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/fan.png') }}" alt="">
       <div class="card-body">
       <h5 class="card-title">Fanta</h5>
         <p class="card-text" style=" text-align: justify;">Fanta adalah merek tertua kedua The Coca-Cola Company dan merek terbesar kedua  di luar Amerika Serikat.
@@ -131,7 +131,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/aw.png') }}" alt="">
+    <img style=" width:80%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/aw.png') }}" alt="">
       <div class="card-body">
       <h5 class="card-title">A&W</h5>
         <p class="card-text" style=" text-align: justify;">Merek minuman jenis root beer yang terutama tersedia di Amerika Serikat dan Kanada. </p>
@@ -141,7 +141,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-    <img style=" width:70%;" class="card-img-top" src="{{ ('assets/produk/sch.png') }}" alt="">
+    <img style=" width:55%;margin-left: auto; margin-right: auto;" class="card-img-top" src="{{ ('assets/produk/sch.png') }}" alt="">
       <div class="card-body">
         <h5 class="card-title">Schweppes</h5>
         <p class="card-text" style=" text-align: justify;">Schweppes hadir dalam berbagai rasa seperti Air Soda, Rasa Jahe dan Air Tonik yang dapat dinikmati sendiri, atau dikombinasikan dengan varian minuman.</p>
