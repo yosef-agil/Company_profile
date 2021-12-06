@@ -6,7 +6,7 @@
 </head>
 <body>
   <!-- navbar -->
-  <div class="container" style="padding-top: 100px; ">
+  <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         <div class="brand">
@@ -41,13 +41,14 @@
     </nav>
   </div>
 
+
 <!-- content -->
 <div class="container">
   <div class="row ">
     <div class="col-2">
     </div>
     <div class="col-8" >
-      <h1 class="text-center">Informasi Coca Cola Company</h1>
+      <h1 class="text-center">Minuman</h1>
     </div>
     <div class="col-2">
     </div>
