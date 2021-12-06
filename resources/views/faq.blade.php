@@ -109,7 +109,7 @@
     <a href="/faqhubungi"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
       <div class="card-body">
       <h3 class="card-title">Hubungan Kami</h3>
-        <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia, Coca-Cola Amatil Indonesia</p>
+        <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia</p>
         <a href="/faqhubungi" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
@@ -119,7 +119,7 @@
 </div>
 
 <section class="ftco-section">
-			<div class="container" style="padding-top: 100px;>
+			<div class="container" style="padding-top: 50px;">
 				<div class="row justify-content-center">
 					<div class="col-md-6 text-center">
 					</div>
@@ -130,14 +130,14 @@
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
-						<h2 class="footer-heading">Media Sosial</h2>
+						<h2 class="footer-heading">Coca Cola</h2>
 						<p class="menu">
-						  <a class="nav-link " aria-current="page" href="/home">Home</a>
-						  <a class="nav-link " aria-current="page" href="/produk">Produk Kami</a>
-							<a class="nav-link " aria-current="page" href="/artikel">Artikel</a>
-							<a class="nav-link " aria-current="page" href="/tujuan">Tujuan</a>
-							<a class="nav-link " aria-current="page" href="/tentang">Tentang</a>
-							<a class="nav-link " aria-current="page" href="/faq">FAQ</a>
+						  <a  aria-current="page" href="/home">Home</a>
+						  <a  aria-current="page" href="/produk">Produk Kami</a>
+							<a  aria-current="page" href="/artikel">Artikel</a>
+							<a  aria-current="page" href="/tujuan">Tujuan</a>
+							<a  aria-current="page" href="/tentang">Tentang</a>
+							<a  aria-current="page" href="/faq">FAQ</a>
 						</p>
 						<ul class="ftco-footer-social p-0">
               <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="ion-logo-twitter"></span></a></li>
