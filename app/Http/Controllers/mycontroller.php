@@ -51,18 +51,6 @@ class mycontroller extends Controller
     public function functionproduk9(){
         return view('produk9');
     }
-    public function functionproduk10(){
-        return view('produk10');
-    }
-    public function functionproduk11(){
-        return view('produk11');
-    }
-    public function functionproduk12(){
-        return view('produk12');
-    }
-    public function functionproduk13(){
-        return view('produk13');
-    }
     //faq
     public function functionfaq(){
         return view('faq');
