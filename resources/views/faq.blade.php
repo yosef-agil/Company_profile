@@ -109,7 +109,7 @@
     <a href="/faqhubungi"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
       <div class="card-body">
       <h3 class="card-title">Hubungan Kami</h3>
-        <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia, Coca-Cola Amatil Indonesia</p>
+        <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia</p>
         <a href="/faqhubungi" class="btn btn-primary">Selanjutnya</a>
       </div>
     </div>
@@ -119,7 +119,7 @@
 </div>
 
 <section class="ftco-section">
-			<div class="container" style="padding-top: 100px;>
+			<div class="container" style="padding-top: 50px;">
 				<div class="row justify-content-center">
 					<div class="col-md-6 text-center">
 					</div>
@@ -130,27 +130,24 @@
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
-						<h2 class="footer-heading">Media Sosial</h2>
+						<h2 class="footer-heading">Coca Cola</h2>
+            
 						<p class="menu">
-						  <a class="nav-link " aria-current="page" href="/home">Home</a>
-						  <a class="nav-link " aria-current="page" href="/produk">Produk Kami</a>
-							<a class="nav-link " aria-current="page" href="/artikel">Artikel</a>
-							<a class="nav-link " aria-current="page" href="/tujuan">Tujuan</a>
-							<a class="nav-link " aria-current="page" href="/tentang">Tentang</a>
-							<a class="nav-link " aria-current="page" href="/faq">FAQ</a>
+						  <a  aria-current="page" href="/home">Home</a>
+						  <a  aria-current="page" href="/produk">Produk Kami</a>
+							<a  aria-current="page" href="/artikel">Artikel</a>
+							<a  aria-current="page" href="/tujuan">Tujuan</a>
+							<a  aria-current="page" href="/tentang">Tentang</a>
+							<a  aria-current="page" href="/faq">FAQ</a>
 						</p>
-						<ul class="ftco-footer-social p-0">
-              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="ion-logo-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="ion-logo-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="ion-logo-instagram"></span></a></li>
-            </ul>
+            
 					</div>
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-12 text-center">
-						<p class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ion-ios-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
-					  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+						<p class="copyright">
+					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | coca cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
+					  </p>
 					</div>
 				</div>
 			</div>
