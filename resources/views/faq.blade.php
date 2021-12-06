@@ -133,11 +133,11 @@
 						<h2 class="footer-heading">Media Sosial</h2>
 						<p class="menu">
 						  <a class="nav-link " aria-current="page" href="/home">Home</a>
-						  <a class="nav-link " aria-current="page" href="/home">Home</a>
-							<a class="nav-link " aria-current="page" href="/home">Home</a>
-							<a class="nav-link " aria-current="page" href="/home">Home</a>
-							<a class="nav-link " aria-current="page" href="/home">Home</a>
-							<a class="nav-link " aria-current="page" href="/home">Home</a>
+						  <a class="nav-link " aria-current="page" href="/produk">Produk Kami</a>
+							<a class="nav-link " aria-current="page" href="/artikel">Artikel</a>
+							<a class="nav-link " aria-current="page" href="/tujuan">Tujuan</a>
+							<a class="nav-link " aria-current="page" href="/tentang">Tentang</a>
+							<a class="nav-link " aria-current="page" href="/faq">FAQ</a>
 						</p>
 						<ul class="ftco-footer-social p-0">
               <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="ion-logo-twitter"></span></a></li>
