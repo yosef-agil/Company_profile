@@ -44,120 +44,80 @@
 
 <!-- content -->
 <div class="container" style="padding-top: 100px;">
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-        <h5 class="card-title">Ades</h5>
-        <p class="card-text">Peluncuran Ades baru dari The Coca-Cola Company 
-          ini menampilkan Ades sebagai air minum dalam kemasan yang Murni, Aman dan Terpercaya, yang dijamin oleh The Coca-Cola Company.</p>
-          <a href="/produk1" class="btn btn-primary">Details</a>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card h-100">
+      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Ades</h5>
+          <p class="card-text">Peluncuran Ades baru dari The Coca-Cola Company 
+            ini menampilkan Ades sebagai air minum dalam kemasan yang Murni, Aman dan Terpercaya, yang dijamin oleh The Coca-Cola Company.</p>
+            <a href="/produk1" class="btn btn-primary">Details</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100">
+      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Aquarius</h5>
+          <p class="card-text">Aquarius adalah produk The Coca-Cola Company. Diperkenalkan pertama kali di Jepang pada tahun 1980an,
+            kini Aquarius hadir di Indonesia untuk menemanimu beraktifitas berat dan berkeringat.</p>
+            <a href="/produk2" class="btn btn-primary">Details</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100">
+      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Coca Cola</h5>
+          <p class="card-text">Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia.</p>
+          <a href="/produk3" class="btn btn-primary">Details</a>
+        </div>
       </div>
     </div>
   </div>
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-        <h5 class="card-title">Aquarius</h5>
-        <p class="card-text">Aquarius adalah produk The Coca-Cola Company. Diperkenalkan pertama kali di Jepang pada tahun 1980an,
-          kini Aquarius hadir di Indonesia untuk menemanimu beraktifitas berat dan berkeringat.</p>
-          <a href="/produk2" class="btn btn-primary">Details</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-        <h5 class="card-title">Coca Cola</h5>
-        <p class="card-text">Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia.</p>
-        <a href="/produk3" class="btn btn-primary">Details</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-        <h5 class="card-title">Coca Cola Zero</h5>
-        <p class="card-text">Coke Zero adalah produk terbesar Coca-Cola dalam 22 tahun dan diluncurkan pada tahun 2005
-          Coca-Cola Zero menawarkan rasa Coca-Cola yang luar biasa, menyegarkan dan bebas gula.</p>
+    <div class="col">
+      <div class="card h-100">
+      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Minute Maid</h5>
+          <p class="card-text">Minute Maid Minuman yang mengandung susu asli dan sari buah bikin kombinasi yang Mix enaxx! Tersedia dalam 4 rasa menarik, jeruk, stroberi, mangga dan apel.</p>
           <a href="#" class="btn btn-primary">Details</a>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-        <h5 class="card-title">Coca Cola Light</h5>
-        <p class="card-text">Diet Coke, juga dikenal sebagai Coca-Cola Light di beberapa pasar, adalah minuman ringan bebas gula dan kalori. </p>
-        <a href="#" class="btn btn-primary">Details</a>
+
+    <div class="col">
+      <div class="card h-100">
+      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+        <div class="card-body">
+        <h5 class="card-title">Frestea</h5>
+          <p class="card-text">Frestea menggunakan standar kualitas tinggi The Coca-ColaCompany, 
+            menggunakan teknologi tinggi dan didukung oleh proses produksi yang baik, demi memastikan bahwa setiap botol Frestea memilki kualitas yang sama. </p>
+            <a href="#" class="btn btn-primary">Details</a>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-        <h5 class="card-title">Minute Maid Nutriboost</h5>
-        <p class="card-text">Minute Maid Nutriboost Minuman yang mengandung susu asli dan sari buah bikin kombinasi yang Mix enaxx! Tersedia dalam 4 rasa menarik, jeruk, stroberi, mangga dan apel.</p>
-        <a href="#" class="btn btn-primary">Details</a>
+
+    <div class="col">
+      <div class="card h-100">
+      <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
+        <div class="card-body">
+        <h5 class="card-title">Sprite</h5>
+          <p class="card-text">Sprite adalah minuman ringan dengan aroma rasa lemon-jeruk terkemuka di dunia.</p>
+            <a href="#" class="btn btn-primary">Details</a>
+        </div>
       </div>
     </div>
-  </div>
 </div>
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-      <h5 class="card-title">Minute Maid Pulpy</h5>
-        <p class="card-text"> Minuman ini dengan cepat menjadi favorit semua kalangan, dan kini Minute Maid Pulpy hadir  dengan inovasi baru melalui Minute Maid Aloe Vera White Grape dengan potongan lidah buaya.</p>
-        <a href="#" class="btn btn-primary">Details</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-      <h5 class="card-title">Minute Maid Refresh</h5>
-        <p class="card-text">Minute Maid Refresh adalah minuman rasa jeruk yang enak, menyegarkan, dan sumber vitamin B3 dan B6.</p>
-        <a href="#" class="btn btn-primary">Details</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-      <h5 class="card-title">Frestea</h5>
-        <p class="card-text">Frestea menggunakan standar kualitas tinggi The Coca-ColaCompany, 
-          menggunakan teknologi tinggi dan didukung oleh proses produksi yang baik, demi memastikan bahwa setiap botol Frestea memilki kualitas yang sama. </p>
-          <a href="#" class="btn btn-primary">Details</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-    <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
-      <div class="card-body">
-      <h5 class="card-title">Sprite</h5>
-        <p class="card-text">Sprite adalah minuman ringan dengan aroma rasa lemon-jeruk terkemuka di dunia.</p>
-           <a href="#" class="btn btn-primary">Details</a>
-      </div>
-    </div>
-  </div>
   <div class="col">
     <div class="card h-100">
     <img style=" width:100%;" class="card-img-top" src="{{ ('assets/produk/Ades.png') }}" alt="">
@@ -191,6 +151,5 @@
   </div>
 </div>
 </div>
-	
 </body>
 </html>
