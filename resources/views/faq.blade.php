@@ -3,6 +3,7 @@
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
   <link href="{{asset('/css/master.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
+  
 </head>
 <body>
   <!-- navbar -->
@@ -131,7 +132,6 @@
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
 						<h2 class="footer-heading">Coca Cola</h2>
-            
 						<p class="menu">
 						  <a  aria-current="page" href="/home">Home</a>
 						  <a  aria-current="page" href="/produk">Produk Kami</a>
@@ -140,7 +140,11 @@
 							<a  aria-current="page" href="/tentang">Tentang</a>
 							<a  aria-current="page" href="/faq">FAQ</a>
 						</p>
-            
+						<ul class="ftco-footer-social p-0">
+              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="ion-logo-twitter"></span></a></li>
+              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="ion-logo-facebook"></span></a></li>
+              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="ion-logo-instagram"></span></a></li>
+            </ul>
 					</div>
 				</div>
 				<div class="row mt-5">
