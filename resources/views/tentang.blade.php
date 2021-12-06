@@ -164,7 +164,7 @@
 					
 					</div>
 				</div>
-				<div class="row mt-5">
+				<div class="row mt-1">
 					<div class="col-md-12 text-center">
 						<p class="copyright">
 					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | coca cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
