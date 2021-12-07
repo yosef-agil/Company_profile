@@ -1,9 +1,12 @@
 <html>
 <head>
+
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
   <link href="{{asset('/css/master.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
+
 </head>
 <body>
   <!-- navbar -->
@@ -13,7 +16,6 @@
         <div class="brand">
            <a class="navbar-brand" href="/home" style="padding-left: 50px;">Coca Cola</a>
         </div>
-
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -119,23 +121,21 @@
 </div>
 </div>
 
-
-
 <section class="ftco-section">
 			<div class="container" style="padding-top: 50px;">
           <div class="row ">
               <div class="col-12" >
-              <hr size="5px">
-              </div>
+                <hr size="5px">
+                </div>
              </div>
 				</div>
 			</div>
 		</section>
 		<footer class="footer-07">
-			<div class="container"  style="padding-top: 30px; ">
+			<div class="container"  style="padding-top: 20px; ">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
-						<h2 class="footer-heading">Coca Cola</h2>
+						<h2 class="footer-heading">Coca Cola Company</h2>
 						<p class="menu">
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/home">Home</a> |
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/produk">Produk Kami</a> |
@@ -145,6 +145,10 @@
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
 					
+            <a href="#" class="fa fa-facebook"style="margin-right: 20px"></a>
+            <a href="#" class="fa fa-twitter" style="margin-right: 20px"></a>
+            <a href="#" class="fa fa-youtube" style="margin-right: 20px"></a>
+
 					</div>
 				</div>
 				<div class="row mt-1">
