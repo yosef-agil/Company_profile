@@ -137,12 +137,12 @@
 					<div class="col-md-12 text-center">
 						<h2 class="footer-heading">Coca Cola</h2>
 						<p class="menu">
-						  <a  aria-current="page" href="/home">Home</a>
-						  <a  aria-current="page" href="/produk">Produk Kami</a>
-							<a  aria-current="page" href="/artikel">Artikel</a>
-							<a  aria-current="page" href="/tujuan">Tujuan</a>
-							<a  aria-current="page" href="/tentang">Tentang</a>
-							<a  aria-current="page" href="/faq">FAQ</a>
+						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/home">Home</a> |
+						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/produk">Produk Kami</a> |
+							<a  aria-current="page" style="text-decoration:none ;color: black" href="/artikel">Artikel</a> |
+							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tujuan">Tujuan</a> |
+							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tentang">Tentang</a> |
+							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
 					
 					</div>
