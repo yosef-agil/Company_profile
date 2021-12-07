@@ -127,6 +127,8 @@
 </div>
 </div>
 
+
+
 <section class="ftco-section">
 			<div class="container" style="padding-top: 50px;">
 				<div class="row justify-content-center">
@@ -141,6 +143,7 @@
 					<div class="col-md-12 text-center">
 						<h2 class="footer-heading">Coca Cola</h2>
 						<p class="menu">
+
 						  <a  aria-current="page" href="/home">Home</a>
 						  <a  aria-current="page" href="/produk">Produk Kami</a>
 							<a  aria-current="page" href="/artikel">Artikel</a>

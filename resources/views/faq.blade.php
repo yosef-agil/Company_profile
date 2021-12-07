@@ -119,16 +119,20 @@
 </div>
 </div>
 
+
+
 <section class="ftco-section">
 			<div class="container" style="padding-top: 50px;">
-				<div class="row justify-content-center">
-					<div class="col-md-6 text-center">
-					</div>
+          <div class="row ">
+              <div class="col-12" >
+              <hr size="5px">
+              </div>
+             </div>
 				</div>
 			</div>
 		</section>
 		<footer class="footer-07">
-			<div class="container">
+			<div class="container"  style="padding-top: 30px; ">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
 						<h2 class="footer-heading">Coca Cola</h2>
