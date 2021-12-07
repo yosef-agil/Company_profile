@@ -53,13 +53,25 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="{{ ('assets/produk/minuman/co.png') }}" class="d-block" alt="">
+        <img src="{{ ('assets/produk/minuman/f1.png') }}" class="d-block" alt="">
         </div>
         <div class="carousel-item">
-        <img src="{{ ('assets/produk/minuman/cz.png') }}" class="d-block" alt="">
+        <img src="{{ ('assets/produk/minuman/f2.png') }}" class="d-block" alt="">
         </div>
         <div class="carousel-item">
-        <img src="{{ ('assets/produk/minuman/cl.png') }}" class="d-block" alt="">
+        <img src="{{ ('assets/produk/minuman/f3.png') }}" class="d-block" alt="">
+        </div>
+        <div class="carousel-item">
+        <img src="{{ ('assets/produk/minuman/f4.png') }}" class="d-block" alt="">
+        </div>
+        <div class="carousel-item">
+        <img src="{{ ('assets/produk/minuman/f5.png') }}" class="d-block" alt="">
+        </div>
+        <div class="carousel-item">
+        <img src="{{ ('assets/produk/minuman/f6.png') }}" class="d-block" alt="">
+        </div>
+        <div class="carousel-item">
+        <img src="{{ ('assets/produk/minuman/f7.png') }}" class="d-block" alt="">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -80,21 +92,27 @@
   <div class="col-2">
     </div>
     <div class="col-8" style="text-align: justify;" >
-    <p>Minuman Berkarbonasi Rasa Kola</p>
-    <p>Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia.<br><br>
-      Dibuat pada tahun 1886 di Atlanta, Georgia, oleh Dr. John S. Pemberton, Coca-Cola pertama kali ditawarkan sebagai Fountain Beverage di Jacob's Pharmacy dengan mencampur Coca-Cola syrup dengan air berkarbonasi.<br><br>
-      Coca-Cola dipatenkan pada tahun 1887, terdaftar sebagai merek dagang pada tahun 1893 dan pada tahun 1895, itu dijual di setiap negara bagian dan teritori di Amerika Serikat.<br><br>
-      Pada tahun 1899, The Coca-Cola Company memulai operasi pembotolan waralaba di Amerika Serikat dan pada tahun 1906 operasi pembotolan untuk Coca-Cola mulai berkembang secara internasional.<br><br>
-      Diet Coke, juga dikenal sebagai Coca-Cola Light di beberapa pasar, adalah minuman ringan bebas gula dan kalori. 
-      Pertama kali diperkenalkan di Amerika Serikat pada 9 Agustus 1982, sebagai merek baru pertama sejak 1886 untuk 
-      menggunakan Merek Dagang Coca-Cola. Saat ini, Diet Coke / Coca-Cola Light adalah salah satu merek terbesar dan paling sukses dari The Coca-Cola Company, tersedia di lebih dari 150 pasar di seluruh dunia.<br><br>
+    <br><br>
+    <p>Minuman Teh </p>
+    <p>Jasmine: Minuman Teh Melati<br>
+      Green: Minuman Teh Hijau<br>
+      Green Honey: Minuman Teh Hijau Rasa Madu<br>
+      Apple: Minuman The Rasa Apel<br>
+      Passionfruit: Minuman Teh Rasa Markisa<br>
+      Low Calorie: Minuman Teh Beraroma Melati Rendah Energi<br>
+      Milk Tea Brown Sugar: Minuman Teh Susu Gula Aren<br><br>
 
-      Coke Zero adalah produk terbesar Coca-Cola dalam 22 tahun dan diluncurkan pada tahun 2005, mencapai status miliaran dolar pada tahun 2007. Coca-Cola Zero menawarkan rasa Coca-Cola yang luar biasa, menyegarkan dan bebas gula.<br><br><br><br>
+      Frestea diproduksi di bawah otoritas Pacific Refreshments Pte. Ltd dengan menggunakan standar kualitas tinggi The Coca-ColaCompany,
+       menggunakan teknologi tinggi dan didukung oleh proses produksi yang baik, demi memastikan bahwa setiap botol Frestea memilki kualitas yang sama. <br><br>
 
-      Kemasan yang tersedia:<br><br>
-      PET : 250 ml, 390 ml, 1L & 1.5L<br>
-      Can : 250 ml & 330 ml<br>
-      RGB : 200 ml & 295 ml<br>
+      Varian rasa :<br>
+      Jasmine, Green, Green Honey, Apel, Markisa, Rendah Kalori, dan Teh Susu Gula Aren
+     <br><br><br><br>
+
+      Kemasan yang tersedia :<br><br>
+      PET : 500 ml, 350 ml, & 900 ml<br>
+      RGB : 220 ml<br>
+      CUP : 296 ml<br>
       </p>
     </div>
     <div class="col-2">

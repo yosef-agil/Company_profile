@@ -88,7 +88,7 @@
         <div class="card-body">
           <h5 class="card-title">Minute Maid</h5>
           <p class="card-text" style=" text-align: justify; padding-bottom:50px;">Minute Maid Minuman yang mengandung susu asli dan sari buah bikin kombinasi yang Mix enaxx! Tersedia dalam 4 rasa menarik, jeruk, stroberi, mangga dan apel.</p>
-          <a href="#" class="btn btn-primary">Details</a>
+          <a href="/produk4" class="btn btn-primary">Details</a>
         </div>
       </div>
     </div>
@@ -100,7 +100,7 @@
         <h5 class="card-title">Frestea</h5>
           <p class="card-text" style=" text-align: justify;">Frestea menggunakan standar kualitas tinggi The Coca-Cola Company, 
             menggunakan teknologi tinggi dan didukung oleh proses produksi yang baik, demi memastikan bahwa setiap botol Frestea memilki kualitas yang sama. </p>
-            <a href="#" class="btn btn-primary">Details</a>
+            <a href="/produk5" class="btn btn-primary">Details</a>
         </div>
       </div>
     </div>
@@ -111,7 +111,7 @@
         <div class="card-body">
         <h5 class="card-title">Sprite</h5>
           <p class="card-text" style=" text-align: justify;padding-bottom:90px;">Sprite adalah minuman ringan dengan aroma rasa lemon-jeruk terkemuka di dunia.</p>
-            <a href="#" class="btn btn-primary">Details</a>
+            <a href="/produk6" class="btn btn-primary">Details</a>
         </div>
       </div>
     </div>
@@ -125,7 +125,7 @@
       <h5 class="card-title">Fanta</h5>
         <p class="card-text" style=" text-align: justify;padding-bottom:10px;">Fanta adalah merek tertua kedua The Coca-Cola Company dan merek terbesar kedua  di luar Amerika Serikat.
            Fanta Orange adalah rasa utama dari Fanta. Hampir semua varian rasa buah ada dalam Fanta.</p>
-           <a href="#" class="btn btn-primary">Details</a>
+           <a href="/produk7" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>
@@ -135,7 +135,7 @@
       <div class="card-body">
       <h5 class="card-title">A&W</h5>
         <p class="card-text" style=" text-align: justify;padding-bottom:80px;">Merek minuman jenis root beer yang terutama tersedia di Amerika Serikat dan Kanada. </p>
-          <a href="#" class="btn btn-primary">Details</a>
+          <a href="/produk8" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>
@@ -145,7 +145,7 @@
       <div class="card-body">
         <h5 class="card-title">Schweppes</h5>
         <p class="card-text" style=" text-align: justify;padding-bottom:30px;">Schweppes hadir dalam berbagai rasa seperti Air Soda, Rasa Jahe dan Air Tonik yang dapat dinikmati sendiri, atau dikombinasikan dengan varian minuman.</p>
-        <a href="#" class="btn btn-primary">Details</a>
+        <a href="/produk9" class="btn btn-primary">Details</a>
       </div>
     </div>
   </div>

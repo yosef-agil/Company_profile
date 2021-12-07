@@ -8,10 +8,10 @@
 <body>
   <!-- navbar -->
   <div class="container">
-  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light"  style="height: 80px;">
       <div class="container-fluid">
         <div class="brand">
-            <a class="navbar-brand" href="#" style="padding-left: 50px;">Coca Cola</a>
+            <a class="navbar-brand" href="/home" style="padding-left: 50px;">Coca Cola</a>
         </div>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,8 +41,67 @@
       </div>
     </nav>
   </div>
+  </div>
 
-<!-- content -->
-	
+  <!-- content -->
+  <div class="container">
+  <div class="row">
+    <div class="col">
+    </div>
+    <div class="col">
+    <div class="container" style="padding-top: 100px;">
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+        <img src="{{ ('assets/produk/minuman/s1.png') }}" class="d-block" alt="">
+        </div>
+        <div class="carousel-item">
+        <img src="{{ ('assets/produk/minuman/s2.png') }}" class="d-block" alt="">
+        </div>
+        <div class="carousel-item">
+        <img src="{{ ('assets/produk/minuman/s3.png') }}" class="d-block" alt="">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    </div>
+    </div>
+    <div class="col">
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-2">
+    </div>
+    <div class="col-8" style="text-align: justify;" >
+    <br><br>
+    <p>Minuman Berkarbonasi Rasa Sarsaparila</p>
+    Tonic Water: Minuman Botanikal Berkarbonasi (Tonic Water)<br>
+    Ginger Ale: Minuman Berkarbonasi Rasa Jahe<br>
+    Soda Water: Air Soda<br><br>
+
+    Schweppes hadir dalam berbagai rasa seperti Air Soda, Rasa Jahe dan Air Tonik yang dapat dinikmati sendiri, atau dikombinasikan dengan varian minuman.
+    <br><br>
+
+      Varian rasa:<br>
+      Minuman Botanikal Berkarbonasi (Air Tonik), Minuman Berkarbonasi Rasa Jahe dan Air Soda<br><br>
+      
+      Kemasan yang tersedia:<br><br>
+      Can : 330 ml<br>
+      
+      </p>
+    </div>
+    <div class="col-2">
+    </div>
+  </div>
+  </div>
+
+</div>
 </body>
 </html>

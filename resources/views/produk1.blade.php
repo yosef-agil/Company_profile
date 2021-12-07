@@ -76,7 +76,7 @@
         Ades ingin menyasar para generasi muda yang memiliki kekuatan untuk melakukan perubahan, terbuka terhadap peluang baru, dan siap mewujudkannya dalam tindakan nyata. 
         Harapannya, mereka juga lebih kritis dalam membeli produk yang akan dikonsumsi.<br><br><br><br>
 
-        Kemasan yang tersedia :
+        Kemasan yang tersedia :<br><br>
         PET : 350 ml, 600 ml, 1.5L
       </p>
     </div>
