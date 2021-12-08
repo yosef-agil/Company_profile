@@ -145,16 +145,16 @@
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
 					
-            <a href="#" class="fa fa-facebook"style="margin-right: 20px"></a>
-            <a href="#" class="fa fa-twitter" style="margin-right: 20px"></a>
-            <a href="#" class="fa fa-youtube" style="margin-right: 20px"></a>
+            <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"style="margin-right: 20px"></a>
+            <a href="https://twitter.com/CocaCola_ID" class="fa fa-twitter" style="margin-right: 20px"></a>
+            <a href="https://www.youtube.com/user/cocacola" class="fa fa-youtube" style="margin-right: 20px"></a>
 
 					</div>
 				</div>
 				<div class="row mt-3">
 					<div class="col-md-12 text-center">
 						<p class="copyright">
-					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | coca cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
+					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> | coca cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
 					  </p>
 					</div>
 				</div>
