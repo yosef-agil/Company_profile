@@ -51,12 +51,15 @@ Route::get('/faqhubungi','App\Http\Controllers\mycontroller@functionfaqhubungi')
 
 //SELECT
 Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
+Route::get('/admindata','App\Http\Controllers\mycontroller@admindata');
 Route::get('/tampilbarang','App\Http\Controllers\mycontroller@tampilbarang');
 
 //INSERT
 Route::get('/tambahbarang', function () {
     return view('tambahbarang');
 });
+
+Route::post('/proses_testi','App\Http\Controllers\mycontroller@testimoni');
 
 Route::post('/proses_insert','App\Http\Controllers\mycontroller@tambahbarang');
 //UPDATE

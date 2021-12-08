@@ -42,17 +42,13 @@
 			<th>Kode Barang</th>
 			<th>Nama Barang</th>
 			<th>Harga Barang</th>
-      <th>Harga Barang</th>
-      <th>Harga Barang</th>
 			<th>Action</th>
 		</tr>
-		@foreach($tb_user as $b)
+		@foreach($barang as $b)
 		<tr>
-			<td>{{ $b->id }}</td>
+			<td>{{ $b->kode }}</td>
 			<td>{{ $b->nama }}</td>
-			<td>{{ $b->email }}</td>
-      <td>{{ $b->password }}</td>
-      <td>{{ $b->testimoni }}</td>
+			<td>{{ $b->harga }}</td>
 			<td>
 				<a href="/editbarang/{{ $b->id }}" class="btn btn-warning">Edit</a> |
 				<a href="/deletebarang/{{ $b->id }}" class="btn btn-danger">Delete</a>

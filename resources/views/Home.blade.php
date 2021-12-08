@@ -70,6 +70,19 @@
 					<div class="col-md-6 text-center">
 					</div>
 				</div>
+
+        <div class="row justify-content-center">
+					<div class="col-md-12 text-center">
+                  <form method="POST" action="/proses_insert">
+            {{ csrf_field() }}
+              <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Testimoni</label>
+                <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              </div>
+              <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
+          </form>
+          </div>
+				</div>
 			</div>
 		</section>
 		<footer class="footer-07">
@@ -85,9 +98,9 @@
 							<a  aria-current="page" href="/tentang">Tentang</a>
 							<a  aria-current="page" href="/faq">FAQ</a>
 						</p>
-					
 					</div>
 				</div>
+
 				<div class="row mt-1">
 					<div class="col-md-12 text-center">
 						<p class="copyright">

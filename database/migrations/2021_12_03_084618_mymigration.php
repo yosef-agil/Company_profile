@@ -20,6 +20,12 @@ class Mymigration extends Migration
             $tb->string('password');
             $tb->string('testimoni');
         });
+
+        Schema::create('tb_admin', function(Blueprint $tb){
+            $tb->increments('id');
+            $tb->string('nama');
+            $tb->string('password');
+        });
     }
 
     /**
