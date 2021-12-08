@@ -50,7 +50,7 @@ Route::get('/faqisu','App\Http\Controllers\mycontroller@functionfaqisu');
 Route::get('/faqhubungi','App\Http\Controllers\mycontroller@functionfaqhubungi');
 
 //SELECT
-
+Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
 Route::get('/tampilbarang','App\Http\Controllers\mycontroller@tampilbarang');
 
 //INSERT

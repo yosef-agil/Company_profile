@@ -13,12 +13,12 @@ class Mymigration extends Migration
      */
     public function up()
     {
-        Schema::create('barang', function(Blueprint $tb){
+        Schema::create('tb_user', function(Blueprint $tb){
             $tb->increments('id');
-            $tb->integer('kode');
             $tb->string('nama');
-            $tb->double('harga');
-            
+            $tb->string('email');
+            $tb->string('password');
+            $tb->string('testimoni');
         });
     }
 

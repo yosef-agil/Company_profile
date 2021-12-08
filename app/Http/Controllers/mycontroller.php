@@ -77,9 +77,14 @@ class mycontroller extends Controller
 
 
     public function tampilbarang(){
-        $barang = DB::table('barang')->get();
+        $testi = DB::table('tb_user')->get();
+        return view('tampilbarang',['tb_user'=>$testi]);
+    }
 
-        return view('tampilbarang',['barang'=>$barang]);
+    
+    public function adminhome(){
+        $testi = DB::table('tb_user')->get();
+        return view('adminhome',['tb_user'=>$testi]);
     }
 
     public function tambahbarang(Request $rq){
