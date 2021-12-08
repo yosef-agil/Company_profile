@@ -80,7 +80,8 @@
   </div>
 </div>
 
-<section class="ftco-section">
+
+        <section class="ftco-section">
 			<div class="container" style="padding-top: 50px;">
           <div class="row ">
               <div class="col-12" >
@@ -88,7 +89,7 @@
                 </div>
              </div>
 				</div>
-
+			</div>
 		</section>
 		<footer class="footer-07">
 			<div class="container"  style="padding-top: 20px; ">
@@ -103,10 +104,6 @@
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tentang">Tentang</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
-					</div>
-				</div>
-
-				<div class="row mt-1">
 					
             <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"style="margin-right: 20px"></a>
             <a href="https://twitter.com/CocaCola_ID" class="fa fa-twitter" style="margin-right: 20px"></a>
