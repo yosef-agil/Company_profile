@@ -63,19 +63,7 @@
         <img style=" width:100%;" src="{{ ('assets/beranda/img1-beranda.png') }}" alt="">
       </div>
 
-  </div>
-</div>
-
-<section class="ftco-section">
-			<div class="container" style="padding-top: 50px;">
-          <div class="row ">
-              <div class="col-12" >
-                <hr size="5px">
-                </div>
-             </div>
-				</div>
-
-        <div class="row justify-content-center">
+      <div class="row justify-content-center">
 					<div class="col-md-12 text-center">
                   <form method="POST" action="/proses_insert">
             {{ csrf_field() }}
@@ -88,6 +76,19 @@
           </div>
 				</div>
 			</div>
+
+  </div>
+</div>
+
+<section class="ftco-section">
+			<div class="container" style="padding-top: 50px;">
+          <div class="row ">
+              <div class="col-12" >
+                <hr size="5px">
+                </div>
+             </div>
+				</div>
+
 		</section>
 		<footer class="footer-07">
 			<div class="container"  style="padding-top: 20px; ">
@@ -102,12 +103,10 @@
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tentang">Tentang</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
-<<<<<<< HEAD
 					</div>
 				</div>
 
 				<div class="row mt-1">
-=======
 					
             <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"style="margin-right: 20px"></a>
             <a href="https://twitter.com/CocaCola_ID" class="fa fa-twitter" style="margin-right: 20px"></a>
@@ -116,7 +115,6 @@
 					</div>
 				</div>
 				<div class="row mt-3">
->>>>>>> 2e9205c953eb5b0b2a4a6cac7ceab989d5a675ce
 					<div class="col-md-12 text-center">
 						<p class="copyright">
 					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> | coca cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
