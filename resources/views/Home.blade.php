@@ -67,16 +67,15 @@
 					<div class="col-md-8 text-center">
           <form method="POST" action="/proses_testi">
             {{ csrf_field() }}
-              <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Testimoni</label>
-                <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              </div>
-              <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Testimoni</label>
+              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            </div>
+            <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
           </form>
           </div>
 				</div>
 			</div>
-
   </div>
 </div>
 
