@@ -64,8 +64,8 @@
       </div>
 
       <div class="row justify-content-center">
-					<div class="col-md-12 text-center">
-                  <form method="POST" action="/proses_insert">
+					<div class="col-md-8 text-center">
+          <form method="POST" action="/proses_testi">
             {{ csrf_field() }}
               <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Testimoni</label>

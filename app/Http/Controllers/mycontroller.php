@@ -73,15 +73,7 @@ class mycontroller extends Controller
     public function functionfaqhubungi(){
         return view('faqhubungi');
     }
- 
 
-
-    public function tampilbarang(){
-        $testi = DB::table('tb_user')->get();
-        return view('tampilbarang',['tb_user'=>$testi]);
-    }
-
-    
     public function adminhome(){
         $testi = DB::table('tb_user')->get();
         return view('adminhome',['tb_user'=>$testi]);
@@ -100,41 +92,5 @@ class mycontroller extends Controller
             ]
         );
         return redirect('/home');
-    }
-
-    public function tambahbarang(Request $rq){
-        $barang = DB::table('barang')->insert(
-            [
-                //nama kolom di tb/db => $rq->HTML Form
-                'kode' => $rq->kode_barang,
-                'nama' => $rq->nama_barang,
-                'harga' => $rq->harga_barang
-            ]
-        );
-        return redirect('/tampilbarang');
-    }
-
-    public function tampiledit($id){
-        //select * from barang where id=id
-        $barang = DB::table('barang')->where('id',$id)->get();
-        return view('formedit',['hasil'=>$barang]);
-    }
-
-
-     public function editbarang(Request $rq){
-        DB::table('barang')->where('id',$rq->id)->update(
-            [
-                'kode' => $rq->kode_barang,
-                'nama' => $rq->nama_barang,
-                'harga' => $rq->harga_barang
-            ]
-        );
-
-        return redirect('/tampilbarang');
-    }
-
-    public function deletebarang($id){
-        DB::table('barang')->where('id',$id)->delete();
-        return redirect('/tampilbarang');
     }
 }
