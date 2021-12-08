@@ -49,6 +49,8 @@ Route::get('/faqsejarah','App\Http\Controllers\mycontroller@functionfaqsejarah')
 Route::get('/faqisu','App\Http\Controllers\mycontroller@functionfaqisu');
 Route::get('/faqhubungi','App\Http\Controllers\mycontroller@functionfaqhubungi');
 
+Route::get('/login','App\Http\Controllers\mycontroller@functionlogin');
+
 //SELECT
 Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
 Route::get('/admindata','App\Http\Controllers\mycontroller@admindata');

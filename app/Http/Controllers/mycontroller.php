@@ -14,8 +14,8 @@ class mycontroller extends Controller
     public function functionartikel(){
         return view('artikel');
     }
-    public function functiontujuan(){
-        return view('tujuan');
+    public function functionkontak(){
+        return view('kontak');
     }
     public function functiontentang(){
         return view('tentang');
@@ -72,6 +72,9 @@ class mycontroller extends Controller
     }
     public function functionfaqhubungi(){
         return view('faqhubungi');
+    }
+    public function functionlogin(){
+        return view('Homelogin');
     }
 
     public function adminhome(){

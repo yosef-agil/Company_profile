@@ -14,15 +14,13 @@ class Mymigration extends Migration
     public function up()
     {
         Schema::create('tb_user', function(Blueprint $tb){
-            $tb->increments('id');
             $tb->string('nama');
             $tb->string('email');
-            $tb->string('password');
-            $tb->string('testimoni');
+            $tb->string('alamat');
+            $tb->string('pesan');
         });
 
         Schema::create('tb_admin', function(Blueprint $tb){
-            $tb->increments('id');
             $tb->string('nama');
             $tb->string('password');
         });
