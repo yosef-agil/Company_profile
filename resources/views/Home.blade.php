@@ -87,7 +87,6 @@
               <div class="col-12" >
                 <hr size="5px">
                 </div>
-             </div>
 				</div>
 			</div>
 		</section>
