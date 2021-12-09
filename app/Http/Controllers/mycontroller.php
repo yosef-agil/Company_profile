@@ -87,13 +87,16 @@ class mycontroller extends Controller
         return view('admindata',['tb_admin'=>$testi]);
     }
 
-    public function testimoni(Request $rq){
+    public function pesan(Request $rq){
         $barang = DB::table('tb_user')->insert(
             [
                 //nama kolom di tb/db => $rq->HTML Form
-                'testimoni' => $rq->testimoni,
+                'nama' => $rq->nama,
+                'email' => $rq->email,
+                'alamat' => $rq->alamat,
+                'pesan' => $rq->pesan,
             ]
         );
-        return redirect('/home');
+        return redirect('/kontak');
     }
 }

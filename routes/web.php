@@ -54,21 +54,11 @@ Route::get('/login','App\Http\Controllers\mycontroller@functionlogin');
 //SELECT
 Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
 Route::get('/admindata','App\Http\Controllers\mycontroller@admindata');
-Route::get('/tampilbarang','App\Http\Controllers\mycontroller@tampilbarang');
 
 //INSERT
-Route::get('/tambahbarang', function () {
-    return view('tambahbarang');
-});
+Route::post('/insertpesan','App\Http\Controllers\mycontroller\mycontroller@kontak');
 
-Route::post('/proses_testi','App\Http\Controllers\mycontroller@testimoni');
-
-Route::post('/proses_insert','App\Http\Controllers\mycontroller@tambahbarang');
 //UPDATE
 
-Route::get('/editbarang/{id}','App\Http\Controllers\mycontroller@tampiledit');
-Route::post('/proses_edit','App\Http\Controllers\mycontroller@editbarang');
-
 //DELETE
-Route::get('/deletebarang/{id}','App\Http\Controllers\mycontroller@deletebarang');
 

@@ -51,17 +51,17 @@
     <div class="col-8">
     <div class="row justify-content-center">
 					<div class="col-md-8 text-center" style="padding-top: 50px;">
-          <form method="" action="/">
+          <form method="POST" action="/pesan">
             {{ csrf_field() }}
             <div class="mb-3">
                <label for="exampleInputEmail1" class="form-label">Nama Pengguna</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <input type="text" name="nama" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
               <label for="exampleInputEmail1" class="form-label">Email Pengguna</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <input type="text" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
               <label for="exampleInputEmail1" class="form-label">Alamat</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <input type="text" name="alamat" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
               <label for="exampleInputEmail1" class="form-label">Pesan</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <input type="text" name="pesan" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
             </div>
             <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
           </form>
