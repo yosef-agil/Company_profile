@@ -30,7 +30,7 @@
               <a class="nav-link" href="/artikel">Artikel</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/kontak">Kontak</a>
+              <a class="nav-link" href="/kontak">Kontak Kami</a>
             </li>
             <li class="nav-item">
               <a class="nav-link active" href="/tentang">Tentang</a>
