@@ -14,6 +14,7 @@ class Mymigration extends Migration
     public function up()
     {
         Schema::create('tb_user', function(Blueprint $tb){
+            $tb->incerement('id');
             $tb->string('nama');
             $tb->string('email');
             $tb->string('alamat');
