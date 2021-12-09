@@ -5,7 +5,7 @@
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
-  
+
 </head height>
 <body>
   <!-- navbar -->
@@ -31,7 +31,11 @@
               <a class="nav-link active" href="/artikel">Artikel</a>
             </li>
             <li class="nav-item">
+<<<<<<< HEAD
               <a class="nav-link" href="/kontak">Kontak</a>
+=======
+              <a class="nav-link" href="/kontak">Kontak Kami</a>
+>>>>>>> 54befab0834598b21c28ac52e8b65525fb495760
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/tentang">Tentang</a>
@@ -105,6 +109,7 @@
   </div>
 </div>
 
+<!-- footer -->
 <section class="ftco-section">
 			<div class="container" style="padding-top: 50px;">
           <div class="row ">
@@ -124,7 +129,7 @@
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/home">Home</a> |
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/produk">Produk Kami</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/artikel">Artikel</a> |
-							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tujuan">Tujuan</a> |
+							<a  aria-current="page" style="text-decoration:none ;color: black" href="/kontak">Kontak Kami</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tentang">Tentang</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
