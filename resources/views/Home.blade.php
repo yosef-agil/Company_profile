@@ -64,28 +64,6 @@
         <img style=" width:100%;" src="{{ ('assets/beranda/img1-beranda.png') }}" alt="">
       </div>
 
-      <div class="row justify-content-center">
-					<div class="col-md-8 text-center" style="padding-top: 50px;">
-          <form method="" action="/">
-            {{ csrf_field() }}
-            <div class="mb-3">
-               <label for="exampleInputEmail1" class="form-label">Nama Pengguna</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              <label for="exampleInputEmail1" class="form-label">Email Pengguna</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              <label for="exampleInputEmail1" class="form-label">Alamat</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              <label for="exampleInputEmail1" class="form-label">Pesan</label>
-              <input type="text" name="testimoni" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-            </div>
-            <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
-          </form>
-          </div>
-				</div>
-			</div>
-  </div>
-</div>
-
 <section class="ftco-section">
 			<div class="container" style="padding-top: 50px;">
           <div class="row ">
