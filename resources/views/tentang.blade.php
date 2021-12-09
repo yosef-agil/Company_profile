@@ -54,7 +54,7 @@
     <div class="col-2">
     </div>
 
-    <div class="col-12" >
+    <div class="col-12" style="padding-top: 20px;" >
     <img src="assets/tentang/1.jpg" >
 
     </div>

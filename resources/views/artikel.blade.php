@@ -44,7 +44,6 @@
     </nav>
   </div>
 
-
 <!-- content -->
 <div class="container" style="padding-top: 100px;">
   <div class="row">
