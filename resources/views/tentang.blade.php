@@ -161,7 +161,7 @@
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/home">Home</a> |
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/produk">Produk Kami</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/artikel">Artikel</a> |
-							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tujuan">Tujuan</a> |
+							<a  aria-current="page" style="text-decoration:none ;color: black" href="/kontak">Kontak Kami</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/tentang">Tentang</a> |
 							<a  aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
 						</p>
