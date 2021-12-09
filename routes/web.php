@@ -22,7 +22,7 @@ Route::get('/home','App\Http\Controllers\mycontroller@functionhome');
 //artikel route
 Route::get('/artikel','App\Http\Controllers\mycontroller@functionartikel');
 //tujuan route
-Route::get('/tujuan','App\Http\Controllers\mycontroller@functiontujuan');
+Route::get('/kontak','App\Http\Controllers\mycontroller@functionkontak');
 //tentang route
 Route::get('/tentang','App\Http\Controllers\mycontroller@functiontentang');
 //produk route
