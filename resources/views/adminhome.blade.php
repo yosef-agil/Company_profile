@@ -16,8 +16,8 @@
 			<th>id</th>
 			<th>Nama Pengguna</th>
 			<th>Email Pengguna</th>
-			<th>Password</th>
-			<th>Testimoni</th>
+			<th>Alamat Pengguna</th>
+			<th>Pesan</th>
 			<th>Action</th>
 		</tr>
 		@foreach($tb_user as $b)
@@ -25,8 +25,8 @@
 			<td>{{ $b->id }}</td>
 			<td>{{ $b->nama }}</td>
 			<td>{{ $b->email }}</td>
-			<td>{{ $b->password }}</td>
-			<td>{{ $b->testimoni }}</td>
+			<td>{{ $b->alamat }}</td>
+			<td>{{ $b->pesan }}</td>
 			<td>
 				<a href="/editbarang/{{ $b->id }}" class="btn btn-warning">Edit</a> |
 				<a href="/deletebarang/{{ $b->id }}" class="btn btn-danger">Delete</a>
