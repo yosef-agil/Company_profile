@@ -77,7 +77,7 @@
 		<footer class="footer-07">
 			<div class="container"  style="padding-top: 20px; ">
 				<div class="row justify-content-center">
-					<div class="col-md-12 text-center">
+					<div class="col-md-12 text-left">
 						<h2 class="footer-heading">Coca Cola Company</h2>
 						<p class="menu">
 						  <a  aria-current="page" style="text-decoration:none ;color: black" href="/home">Home</a> |
