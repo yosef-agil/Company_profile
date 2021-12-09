@@ -56,7 +56,7 @@ Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
 Route::get('/admindata','App\Http\Controllers\mycontroller@admindata');
 
 //INSERT
-Route::post('/insertpesan','App\Http\Controllers\mycontroller\mycontroller@kontak');
+Route::post('/insertpesan','App\Http\Controllers\mycontroller@pesan');
 
 //UPDATE
 

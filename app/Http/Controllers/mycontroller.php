@@ -88,9 +88,8 @@ class mycontroller extends Controller
     }
 
     public function pesan(Request $rq){
-        $barang = DB::table('tb_user')->insert(
+        $testi = DB::table('tb_user')->insert(
             [
-                //nama kolom di tb/db => $rq->HTML Form
                 'nama' => $rq->nama,
                 'email' => $rq->email,
                 'alamat' => $rq->alamat,
