@@ -52,7 +52,7 @@
 
 
     <!-- content -->
-    <div class="container" style="padding-top: 100px;">
+    <div class="container" style="padding-top: 120px; padding-bottom: 40px">
         <div class="row ">
             <div class="col-2">
             </div>
@@ -62,15 +62,17 @@
             <div class="col-2">
             </div>
         </div>
-        <div class="card text-center" style="padding-top: 30px;">
-            <div class="row row-cols-1 row-cols-md-3 g-4">
+        </div>
+        <div class="container" >
+        <div class="card text-center" >
+            <div class="row row-cols-1 row-cols-md-3 g-4 ">
                 <div class="col">
-                    <div class="card">
+                    <div class="card" style="background-color: #FSFSFS">
                         <a href="/faqminuman"> <img src="assets/FAQ/1.png" class="card-img-top"> </a>
                         <div class="card-body">
                             <h3 class="card-title">Minuman</h3>
                             <p class="card-text">Apa perbedaan antara Coca-Cola Zero Sugar dan Coca-Cola Light?</p>
-                            <a href="/faqminuman" class="btn btn-primary">Selanjutnya</a>
+                            <a href="/faqminuman" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>
@@ -80,7 +82,7 @@
                         <div class="card-body">
                             <h3 class="card-title">Komposisi</h3>
                             <p class="card-text">Berapakah kandungan gula yang terdapat di Coca-Cola Classic?</p>
-                            <a href="/faqkomposisi" class="btn btn-primary">Selanjutnya</a>
+                            <a href="/faqkomposisi" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +92,7 @@
                         <div class="card-body">
                             <h3 class="card-title">Kesehatan</h3>
                             <p class="card-text">Berapakah kandungan gula yang terdapat di Coca-Cola Classic?</p>
-                            <a href="/faqkesehatan" class="btn btn-primary">Selanjutnya</a>
+                            <a href="/faqkesehatan" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>
@@ -100,7 +102,7 @@
                         <div class="card-body">
                             <h3 class="card-title">Sejarah</h3>
                             <p class="card-text">Siapa yang pertama kali menemukan Coca-Cola?</p>
-                            <a href="/faqsejarah" class="btn btn-primary">Selanjutnya</a>
+                            <a href="/faqsejarah" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +112,7 @@
                         <div class="card-body">
                             <h3 class="card-title">Isu dan Rumor</h3>
                             <p class="card-text">Apakah benar Coca-Cola mengandung kokain?</p>
-                            <a href="/faqisu" class="btn btn-primary">Selanjutnya</a>
+                            <a href="/faqisu" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>
@@ -120,7 +122,7 @@
                         <div class="card-body">
                             <h3 class="card-title">Hubungan Kami</h3>
                             <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia</p>
-                            <a href="/faqhubungi" class="btn btn-primary">Selanjutnya</a>
+                            <a href="/faqhubungi" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>
