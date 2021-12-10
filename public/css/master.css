@@ -25,3 +25,40 @@ body{
     padding-top: 20px;
     padding-bottom: 45px;
 }
+
+/* Css contact */
+.contac{
+    margin: 100px 0px 100px 0px;
+}
+.ct{
+    padding: 40px 40px;
+    border-radius: 18px;
+}
+   /* shadow */
+.ct{
+    box-shadow: 0.7116020321846008px 1.0504043102264404px 4.625px 0px rgba(0, 0, 0, 0.013);
+    box-shadow: 3.253037691116333px 4.8018479347229px 13px 0px rgba(0, 0, 0, 0.02);
+    box-shadow: 8.234251976013184px 12.154678344726562px 34.875px 0px rgba(0, 0, 0, 0.027);
+    box-shadow: 16.265188217163086px 24.009241104125977px 80px 0px rgba(0, 0, 0, 0.04);
+
+}
+.contact img{
+    width: 150%;
+    border-radius: 25px;
+}
+.contact{
+    justify-content: center;
+}
+.form-contact button{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.form-contact label{
+    font-size: 14px;
+}
+.form-contact .col-md-12{
+    margin-bottom: 15px;
+}
+::placeholder{
+    font-size: 12px;
+}
