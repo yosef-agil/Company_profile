@@ -27,13 +27,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav" style="padding-right: 100px;">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/home">Home</a>
+                            <a class="nav-link" aria-current="page" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link " href="/produk">Produk</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/artikel">Artikel</a>
+                            <a class="nav-link active" href="/artikel">Artikel</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/kontak">Kontak</a>
