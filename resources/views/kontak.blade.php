@@ -6,20 +6,22 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
 </head>
+
 <body>
   <!-- navbar -->
   <div class="container">
-  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
+    <div class="row">
+       <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
       <div class="container-fluid">
         <div class="brand">
-          <a class="navbar-brand" href="/home" style="padding-left: 50px;">Coca Cola</a>
+          <a class="navbar-brand" href="/home">Coca Cola</a>
         </div>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent" >
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0" style="padding-right: 100px;" >
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0" >
             <li class="nav-item">
               <a class="nav-link" aria-current="page" href="/home">Home</a>
             </li>
@@ -41,52 +43,45 @@
         </div>
       </div>
     </nav>
+    </div>
   </div>
 
 <!-- content -->
-<div class="container" style="padding-top: 100px;">
-  <div class="row">
-    <div class="col-2">
-    </div>
-    <div class="col-8">
-    <div class="row justify-content-center">
-					<div class="col-md-8 text-center" style="padding-top: 50px;">
-          <form method="POST" action="/insertpesan">
+<div class="contac">
+<div class="container">
+  <div class="row ct">
+    <div class="col-md-6 form-contact">
+      <form method="POST" action="/insertpesan">
             {{ csrf_field() }}
-            <div class="mb-3">
-              <label for="exampleInputEmail1" class="form-label">Nama Pengguna</label>
-              <input type="text" name="nama" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              <label for="exampleInputEmail1" class="form-label">Email Pengguna</label>
-              <input type="text" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              <label for="exampleInputEmail1" class="form-label">Alamat</label>
-              <input type="text" name="alamat" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-              <label for="exampleInputEmail1" class="form-label">Pesan</label>
-              <input type="text" name="pesan" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-            </div>
-            <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
-          </form>
-          </div>
-				</div>
-			</div>
+              <div class="col-md-12">
+                <label for="formGroupExampleInput" class="form-label">Nama Lengkap</label>
+                <input type="text" class="form-control form-control-sm" name="nama" id="formGroupExampleInput" placeholder="nama lengkap">
+              </div>
+              <div class="col-md-12">
+                <label for="formGroupExampleInput" class="form-label">Email</label>
+                <input type="text" class="form-control form-control-sm" name="email" id="formGroupExampleInput" placeholder="Email address">
+              </div>
+              <div class="col-md-12">
+                <label for="formGroupExampleInput" class="form-label">Alamat</label>
+                <input type="text" class="form-control form-control-sm" name="alamat" id="formGroupExampleInput" placeholder="Masukan alamat">
+              </div>
+              <div class="col-md-12">
+                <label for="exampleFormControlTextarea1" class="form-label">Pesan</label>
+                <textarea class="form-control" name="pesan" id="exampleFormControlTextarea1" placeholder="Masukan pesan anda di sini" rows="2"></textarea>
+              </div>
+              <button type="submit"  value="submit" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+    <div class="col-md-4 align-middle contact">
+      <img src="{{ ('assets/tujuan/contact.jpg') }}" alt="">
+    </div>
   </div>
 </div>
-    </div>
-    <div class="col-2">
-    </div>
-  </div>
 </div>
 
-<section class="ftco-section">
-			<div class="container" style="padding-top: 50px;">
-          <div class="row ">
-              <div class="col-12" >
-                <hr size="5px">
-                </div>
-             </div>
-				</div>
-			</div>
-		</section>
+<!-- Footer -->
 		<footer class="footer-07">
+      <hr>
 			<div class="container"  style="padding-top: 20px; ">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
