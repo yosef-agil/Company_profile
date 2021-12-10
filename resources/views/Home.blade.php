@@ -6,13 +6,14 @@
     <script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('assets/css/home.css')}}">
     <title>Home</title>
 </head>
 
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" style="height: 80px;">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px;">
             <div class="container-fluid">
                 <div class="brand">
                     <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:30%;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
