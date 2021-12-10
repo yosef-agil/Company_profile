@@ -98,4 +98,9 @@ class mycontroller extends Controller
         );
         return redirect('/kontak');
     }
+
+    public function delete($id){
+        DB::table('tb_user')->where('id', $id)->delete();
+        return redirect('/kontak');
+ }
 }
