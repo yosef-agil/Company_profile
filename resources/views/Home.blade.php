@@ -15,7 +15,7 @@
         <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" style="height: 80px;">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:40%;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
+                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:30%;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
