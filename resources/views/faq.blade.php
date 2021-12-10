@@ -17,7 +17,7 @@
             <div class="container-fluid">
                 <div class="brand">
                     <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img
-                            style=" width:10%;padding-bottom: 10px;" src="{{ ('assets/beranda/lg1.png') }}" alt=""></a>
+                            style=" width:30%;padding-bottom: 10px;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
