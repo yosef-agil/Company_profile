@@ -15,7 +15,7 @@
         <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" style="height: 80px;">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;">Coca Cola</a>
+                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:10%;" src="{{ ('assets/beranda/lg1.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -24,18 +24,18 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0" style="padding-right: 100px;">
+                    <ul class="navbar-nav" style="padding-right: 100px;">
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="/produk">Produk Kami</a>
+                            <a class="nav-link " href="/produk">Produk</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/artikel">Artikel</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/kontak">Kontak Kami</a>
+                            <a class="nav-link" href="/kontak">Kontak</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/tentang">Tentang</a>
