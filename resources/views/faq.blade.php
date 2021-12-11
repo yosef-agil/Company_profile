@@ -130,50 +130,48 @@
         </div>
     </div>
 
-    <section class="ftco-section">
-        <div class="container" style="padding-top: 50px;">
-            <div class="row ">
-                <div class="col-12">
-                    <hr size="5px">
-                </div>
+    <div class="container-fluid bg-light" style="padding-top: 50px;">
+        <div class="row">
+            <div class="col-12">
+                <footer class="footer-07">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-12 text-center">
+                                <h2 class="footer-heading">Coca Cola Company</h2>
+                                <p class="menu">
+                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                        href="/home">Home</a> |
+                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                        href="/produk">Produk Kami</a> |
+                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                        href="/artikel">Artikel</a> |
+                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                        href="/kontak">Kontak Kami</a> |
+                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                        href="/tentang">Tentang</a> |
+                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                        href="/faq">FAQ</a>
+                                </p>
+                                <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"
+                                    style="margin-right: 20px"></a>
+                                <a href="https://twitter.com/CocaCola_ID" class="fa fa-twitter"
+                                    style="margin-right: 20px"></a>
+                                <a href="https://www.youtube.com/user/cocacola" class="fa fa-youtube"
+                                    style="margin-right: 20px"></a>
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12 text-center">
+                                <p class="copyright">
+                                    Copyright | Coca Cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
             </div>
         </div>
-        </div>
-    </section>
-    <footer class="footer-07">
-        <div class="container" style="padding-top: 20px; ">
-            <div class="row justify-content-center">
-                <div class="col-md-12 text-center">
-                    <h2 class="footer-heading">Coca Cola Company</h2>
-                    <p class="menu">
-                        <a aria-current="page" style="text-decoration:none ;color: black" href="/home">Home</a> |
-                        <a aria-current="page" style="text-decoration:none ;color: black" href="/produk">Produk Kami</a>
-                        |
-                        <a aria-current="page" style="text-decoration:none ;color: black" href="/artikel">Artikel</a> |
-                        <a aria-current="page" style="text-decoration:none ;color: black" href="/tujuan">Tujuan</a> |
-                        <a aria-current="page" style="text-decoration:none ;color: black" href="/tentang">Tentang</a> |
-                        <a aria-current="page" style="text-decoration:none ;color: black" href="/faq">FAQ</a>
-                    </p>
-
-                    <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook" style="margin-right: 20px"></a>
-                    <a href="https://twitter.com/CocaCola_ID" class="fa fa-twitter" style="margin-right: 20px"></a>
-                    <a href="https://www.youtube.com/user/cocacola" class="fa fa-youtube"
-                        style="margin-right: 20px"></a>
-
-                </div>
-            </div>
-            <div class="row mt-3">
-                <div class="col-md-12 text-center">
-                    <p class="copyright">
-                        Copyright &copy;<script>
-                            document.write(new Date().getFullYear());
-
-                        </script> | coca cola company <i class="ion-ios-heart" aria-hidden="true"></i></a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </footer>
+    </div>
 
 </body>
 
