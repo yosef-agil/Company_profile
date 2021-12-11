@@ -66,27 +66,24 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active bg-dark">
-                            <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}"
+                            <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/artikel/1.jpg') }}"
                                 alt="">
-                                <img src="{{ ('assets/artikel/1.jpg') }}" alt=""> 
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>First slide label</h5>
                                 <p>Some representative placeholder content for the first slide.</p>
                             </div>
                         </div>
                         <div class="carousel-item bg-dark">
-                            <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}"
+                            <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/artikel/Recycle me.jpg') }}"
                                 alt="">
-                                <img src="{{ ('assets/artikel/Recycle me.jpg') }}" alt="">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Second slide label</h5>
                                 <p>Some representative placeholder content for the second slide.</p>
                             </div>
                         </div>
                         <div class="carousel-item bg-dark">
-                            <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}"
+                            <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/artikel/covid.jpg') }}"
                                 alt="">
-                                <img src="{{ ('assets/artikel/covid.jpg') }}" alt="">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Third slide label</h5>
                                 <p>Some representative placeholder content for the third slide.</p>
