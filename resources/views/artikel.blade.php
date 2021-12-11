@@ -68,6 +68,7 @@
                         <div class="carousel-item active bg-dark">
                             <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/produk/Ades.png') }}"
                                 alt="">
+                                <img src="1.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>First slide label</h5>
                                 <p>Some representative placeholder content for the first slide.</p>
