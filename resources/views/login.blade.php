@@ -33,7 +33,7 @@
                     <hr>
                     <div class="col-md-12">
                         <label for="formGroupExampleInput" class="form-label">username</label>
-                        <input type="text" class="form-control" name="nama" id="formGroupExampleInput" placeholder="Your email address..">
+                        <input type="text" class="form-control" name="nama" id="formGroupExampleInput" placeholder="Your username..">
                     </div>
                     <div class="pass col-md-12">
                         <label for="formGroupExampleInput2" class="form-label">Password</label>
