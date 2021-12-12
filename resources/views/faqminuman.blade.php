@@ -127,7 +127,11 @@
 </div>
 </div>
 <!-- footer -->
-<div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
+<div class="container" style="padding-top: 50px;">
+        </div>
+        </div>
+    </section>
+    <div class="container-fluid" style="padding-bottom: 50px; padding-top: 50px; background-color: #333333 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
