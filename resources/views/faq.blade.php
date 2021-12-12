@@ -118,11 +118,11 @@
                 </div>
                 <div class="col">
                     <div class="card">
-                        <a href="/faqhubungi"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
+                        <a href="/kontak"><img src="assets/FAQ/6.png" class="card-img-top"> </a>
                         <div class="card-body">
                             <h3 class="card-title">Hubungan Kami</h3>
                             <p class="card-text">Coca-Cola Indonesia, Coca-Cola Foundation Indonesia</p>
-                            <a href="/faqhubungi" class="btn btn-danger">Selanjutnya</a>
+                            <a href="/kontak" class="btn btn-danger">Selanjutnya</a>
                         </div>
                     </div>
                 </div>

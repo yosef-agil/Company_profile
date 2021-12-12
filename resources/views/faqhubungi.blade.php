@@ -65,7 +65,7 @@
         </div>
     </section>
     <footer class="footer-07">
-        <div class="container" style="padding-top: 20px; ">
+        <div class="container" style="padding-top: 40px; ">
             <div class="row justify-content-center">
                 <div class="col-md-12 text-center">
                     <h2 class="footer-heading">Coca Cola Company</h2>
