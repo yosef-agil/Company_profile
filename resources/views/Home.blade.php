@@ -70,19 +70,24 @@
     <div class="container-fluid" style="padding:40px 40px 40px 40px;">
         <div class="row align-self-center" style="margin:110px 8px 110px 8px;">
 
-            <!-- Heading & title -->
-            <div class="col-md-6" style="text-align: justify">
-                <h2>Gandeng Anak-anak muda, Cola-cola Luncurkan Program Plastic Reborn 2.0</h2>
-                <p>
-                Program Plastic Reborn 2.0 adalah bagian dari visi World Without Waste yang diluncurkan oleh The Coca-Cola Company. 
-                Visi global tersebut disusun oleh tiga pilar utama yakni design, collection, dan partnership.
-                 </p>
-            </div>
+            
 
             <!-- image -->
-            <div class="col-md-6" >
-                <img style=" width:100%;" src="{{ ('assets/beranda/img1-beranda.png') }}" alt="">
+             <div class="col-md-6" >
+            <img style=" width:100%;" src="{{ ('assets/artikel/1.jpg') }}" alt="">
             </div>
+            <!-- Heading & title -->
+            <div class="col-md-6" >
+                <h2>Coca-Cola beli saham minuman Bodyarmor </h2>
+                <p style="text-align: justify">
+                Coca-Cola mengumumkan telah membeli saham produsen minuman olahraga Bodyarmor senilai USD 5,6 miliar atau setara Rp 79,83 triliun. 
+                Transaksi pembelian saham itu menjadikan akuisisi merek terbesar perseroan hingga kini.
+                <br>
+                <a href="/produk" class="btn btn-dark btn-hero">Baca lagi</a>
+            </p>
+                 
+            </div>
+
         </div>
     </div>
 
