@@ -3,77 +3,95 @@
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
   	<link href="{{asset('/css/master.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
+
+    <style>
+        header {
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            overflow-x: hidden;
+        }
+
+        main {
+            margin-left: 260px;
+            padding: 30px 30px;
+        }
+
+        .nav-link:hover {
+            background-color: #525252 !important
+        }
+
+        .nav-link .fa {
+            transition: all 1s
+        }
+
+        .nav-link:hover .fa {
+            transform: rotate(360deg)
+        }
+
+        td {
+            font-size: 14px;
+        }
+    </style>
 </head>
 <body>
   <!-- navbar -->
-  <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color:rgb(254, 254, 254)">
-            <div class="container-fluid">
-                <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:30%;" src="{{ ('assets/beranda/com.png') }}" alt=""></a>
-                </div>
+  <header>
+        <div class="sidebar-menu">
+            <!-- side bar menu -->
+            <div class="d-flex flex-column vh-100 flex-shrink-0 p-3 text-white bg-dark" style="width: 250px;">
+                <a href="/" style="margin-left:16px;" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none fs-4">
+                    Cola<span class="fs-4" style="color:#75CB79;"></span> </a>
+                <hr>
+                <ul class="nav nav-pills flex-column mb-auto">
+                    <li class="nav-item"> <a href="#" class="nav-link active" aria-current="page">Dashboard</a> </li>
+                    <li> <a href="ADMIN_data_penerima.php" class="nav-link text-white">Data Penerima</a> </li>
+                    <li> <a href="ADMIN_data_pengirim.php" class="nav-link text-white">Data Pengirim</a> </li>
+                    <li> <a href="ADMIN_report.php" class="nav-link text-white">Report</a> </li>
+                </ul>
+            </div>
+        </div>
+    </header>
 
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav" style="padding-right: 100px;">
-                        <li class="nav-item">
-                            <a class="nav-link active" style="color: rgb(255, 0, 0);" aria-current="page" href="/home">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/produk">Produk</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/artikel">Artikel</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/kontak">Kontak</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/tentang">Tentang</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link " style="color: rgb(255, 0, 0);" href="/faq">FAQ</a>
-                        </li>
+
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>Data Pesan</h4>
+                </div>
+                <hr style="margin-top:25px;">
+            </div>
+
+            <div class="col-md-12">
+                <div class="table-responsive-sm">
+                    <table class="table table-hover align-middle">
+                        <thead>
+                            <tr>
+                                <td>Id</td>
+                                <td>Nama Pengguna</td>
+                                <td>Email Pengguna</td>
+                                <td>Alamat Pengguna</td>
+                                <td>Pesan</td>
+                                <td>Action</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach($tb_user as $b)
+                            <tr class="data-table">
+                                <td> {{ $b->id }} </td>
+                                <td> {{ $b->nama }} </td>
+                                <td> {{ $b->email }} </td>
+                                <td> {{ $b->alamat }} </td>
+                                <td> {{ $b->pesan }} </td>
+                                <td><a href="/deleteuser/{{ $b->id }}" class="btn btn-danger">Delete</a></td>
+                            </tr>
+                            @endforeach
+                        </tbody>
+                    </table>
                 </div>
             </div>
-        </nav>
-    </div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-1">
-    </div>
-    <div class="col-10">
-      <table class="table table-striped">
-		<tr class="table-dark">
-			<th>id</th>
-			<th>Nama Pengguna</th>
-			<th>Email Pengguna</th>
-			<th>Alamat Pengguna</th>
-			<th>Pesan</th>
-			<th>Action</th>
-		</tr>
-		@foreach($tb_user as $b)
-		<tr>
-			<td>{{ $b->id }}</td>
-			<td>{{ $b->nama }}</td>
-			<td>{{ $b->email }}</td>
-			<td>{{ $b->alamat }}</td>
-			<td>{{ $b->pesan }}</td>
-			<td>
-				<a href="/deleteuser/{{ $b->id }}" class="btn btn-danger">Delete</a>
-			</td>
-		</tr>
-		@endforeach
-	</table>
-    </div>
-    <div class="col-1">
-    </div>
-    
-  </div>
-</div>
+        </div>
+    </main>
 </body>
