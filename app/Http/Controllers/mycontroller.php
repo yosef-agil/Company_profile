@@ -105,7 +105,6 @@ class mycontroller extends Controller
     public function pesan(Request $rq){
         $testi = DB::table('tb_user')->insert(
             [
-                'id' => $rq->id,
                 'nama' => $rq->nama,
                 'email' => $rq->email,
                 'alamat' => $rq->alamat,
