@@ -45,7 +45,7 @@
         </nav>
     </div>
 <!-- content -->
-<div class="container" style="padding-top: 80px; ">
+<div class="container" style="padding-top: 100px; text-align: justify ">
   <div class="row ">
     <div class="col-2">
     </div>
