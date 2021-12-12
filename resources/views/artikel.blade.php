@@ -100,7 +100,7 @@
             <div class="row" style="padding-top: 50px;">
                 <div class="col-2">
                 </div>
-                <div class="col-8">
+                <div class="col-8" style="text-align: justify;">
                 <p>Liputan6.com, Jakarta - Coca-Cola mengumumkan telah membeli saham produsen minuman olahraga Bodyarmor senilai USD 5,6
                      miliar atau setara Rp 79,83 triliun (asumsi kurs Rp 14.255 per dolar AS). Transaksi pembelian saham itu menjadikan 
                      akuisisi merek terbesar perseroan hingga kini.</p>
@@ -136,28 +136,8 @@
         </div>
     </div>
     
-    <!-- pager -->
-    <div class="container">
-    <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <h2>Button Group</h2>
-  <p>The .btn-group class creates a button group:</p>
-  <div class="btn-group">
-    <button type="button" class="btn btn-primary">Apple</button>
-    <button type="button" class="btn btn-primary">Samsung</button>
-    <button type="button" class="btn btn-primary">Sony</button>
-  </div>
-</div>
-
-<<<<<<< HEAD
     <!-- content -->
     <div class="container-fluid bg-light" style="padding-top: 50px;">
-=======
-    <div class="container-fluid" style="padding-top: 50px; background-color: #191919 ; color: white;">
->>>>>>> 250840a2ace423bdad6d4d873ee154f47e23b9bd
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
@@ -199,17 +179,6 @@
             </div>
         </div>
     </div>
-
-<!-- Back to top button -->
-<div>
-<button
-        type="button"
-        class="btn btn-danger btn-floating btn-lg"
-        id="btn-back-to-top"
-        >
-  <i class="fas fa-arrow-up"></i>
-</button>
-</div>
 </body>
 
 </html>
