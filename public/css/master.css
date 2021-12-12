@@ -62,3 +62,119 @@ body{
 ::placeholder{
     font-size: 12px;
 }
+
+/* CAOURSEL TESTI */
+/*Review section*/
+.section-5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100hv;
+}
+.section-5 .testimonials .card{
+    background: #fff;
+    margin: 0 20px;
+    padding: 15px 8px;
+    border-radius: 20px;
+    border: 0;
+}
+.section-5 .testimonials .card .card-img-top{
+    max-width: 100px;
+    border-radius: 50%;
+    margin: 15px auto 0;
+    box-shadow: 0 8px 20px -4px #9fabbb;
+    width: 100px;
+    height: 100px;
+}
+.section-5 h5{
+    color: var(--sublink);
+    font-family: var(--main-font);
+    font-size: var(--navbar);
+    font-weight: var(--medium);
+}
+.section-5 h5 span{
+    font-weight: var(--regular);
+    font-size: medium;
+    color: var(--bg-color);
+}
+.section-5 p{
+    margin-top: 15px;
+    padding-bottom: 15px;
+    color: var(--bg-color);
+    font-family: var(--main-font);
+    font-size: var(--project);
+    font-weight: var(--regular);
+    color: var(--bg-color);
+    opacity: 75%;
+}
+.section-5 .owl-item > div{
+    cursor: pointer;
+    margin: 5% 0%;
+    transition: margin 0.4s ease;
+}
+.section-5 .owl-item.center > div{
+    cursor: pointer;
+    margin: 0;
+}
+.section-5 .testimonials .active{
+    opacity: 0.5;
+    transition: all 0.25s ease;
+}
+.section-5 .testimonials .center{
+    opacity: 1;
+}
+.section-5 .testimonials .owl-stage-outer{
+    padding: 30px 0;
+}
+.section-5 .testimonials .owl-dots{
+    text-align: center;
+}
+.section-5 .testimonials .owl-dots span{
+    position: relative;
+    height: 14px;
+    width: 14px;
+    border-radius: 20px;
+    display: block;
+    background: var(--bg-color);
+    border: 2px solid #333333;
+    transition: all 0.25s ease;
+    margin: 0 4px;
+}
+.section-5 .testimonials .owl-dots .active span{
+    background: var(--sublink);
+    box-shadow: none;
+    height: 14px;
+    width: 30px;
+    position: relative;
+    transition: all 0.25s ease;
+}
+.section-5 .testimonials .owl-dots .active{
+    box-shadow: none;
+}
+.section-5 .owl-dots:focus{
+    box-shadow: none!important;
+    outline: 0;
+    border: 0;
+}
+.section-5 h3{
+    text-align: center;
+    padding-top: 6rem;
+}
+.section-5 .desc p{
+    text-align: center;
+    font-family: var(--main-font);
+    font-size: var(--paragraf);
+    font-weight: var(--regular);
+    color: var(--title);
+}
+.section-5 .testimonials{
+    padding-bottom: 3rem;
+}
+.item{
+    box-shadow: 0.7116020321846008px 1.0504043102264404px 4.625px 0px rgba(0, 0, 0, 0.013);
+    box-shadow: 3.253037691116333px 4.8018479347229px 13px 0px rgba(0, 0, 0, 0.02);
+    box-shadow: 8.234251976013184px 12.154678344726562px 34.875px 0px rgba(0, 0, 0, 0.027);
+    box-shadow: 16.265188217163086px 24.009241104125977px 80px 0px rgba(0, 0, 0, 0.04);
+}
+
