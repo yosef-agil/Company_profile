@@ -67,11 +67,12 @@
             </div>
         </div>
 
-        <div class="row" style="padding-top: 20px; padding-bottom: 40px; ">
+        <div class="row" style="padding-top: 20px; padding-bottom: 40px; text-align: justify">
             <div class="col-2">
             </div>
-            <div class="col-8">
+            <div class="col-8 " >
                 <p>
+                
                     Dunia terus berubah di sekitar kita. Untuk dapat terus berkembang sebagai bisnis selama sepuluh
                     tahun ke
                     depan dan seterusnya, kami harus melihat ke depan, memahami berbagai tren dan faktor yang akan
@@ -82,15 +83,18 @@
                     menciptakan sebuah tujuan jangka panjang bagi bisnis kami dan memberikan kami sebuah "Peta Jalan"
                     untuk
                     meraih kesuksesan bersama para mitra pembotolan kami.
+                
                 </p>
                 <h5 style="padding-top: 15px; "><strong>Misi Kami</strong></h5>
 
                 <p>
+                
                     Peta Jalan kami dimulai dengan misi kami untuk terus bertahan. Misi ini menegaskan tujuan kami
                     sebagai
                     sebuah perusahaan dan berfungsi sebagai standar yang menjadi tolok ukur seluruh tindakan dan
                     keputusan
                     kami.
+                
                 </p>
                 <ul>
                     <li>Untuk menyegarkan dunia...</li>
@@ -99,6 +103,7 @@
                 </ul>
                 <h5 style="padding-top: 15px; "><strong>Visi Kami</strong></h5>
                 <p>
+                
                     Visi kami membentuk kerangka kerja Peta Jalan kami dan memandu setiap aspek dari bisnis kami dengan
                     menjelaskan target yang perlu kami capai untuk terus meraih pertumbuhan yang berkelanjutan dan
                     berkualitas.
@@ -129,17 +134,20 @@
 
                 <h5 style="padding-top: 15px; "><strong>Budaya Kesuksesan Kami</strong></h5>
                 <p>
+                
                     Budaya Kesuksesan Kami mempertegas segala sikap dan perilaku yang diperlukan untuk menjadikan Visi
                     2020
                     kami sebuah kenyataan.
+                
                 </p>
 
                 <h5 style="padding-top: 15px; "><strong>Mewujudkan Nilai Perusahaan</strong></h5>
                 <p>
+                
                     Nilai-nilai perusahaan kami berfungsi sebagai kompas atas tindakan kami dan mengilustrasikan cara
                     kami
                     berperilaku di seluruh dunia.
-
+                
                     <div style="padding-top: 5px;">
                         <ul>
                             <li><strong>Kepemimpinan: </strong> Berani untuk membentuk masa depan yang lebih baik</li>
