@@ -4,6 +4,7 @@
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
 </head>
 <body>
+	
       	<form method="POST" action="/formdata">
 		{{ csrf_field() }}
 		<div class="mb-3">
