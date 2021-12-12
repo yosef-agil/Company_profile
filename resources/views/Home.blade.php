@@ -112,7 +112,7 @@
                     <div class="card text-center">
                     <div class="card-body">
                       <img class="bor" src="{{ ('assets/beranda/jhon.webp') }}" alt="">
-                        <h5 ><b>John Murphy</b>> </h5>
+                        <h5 ><b>John Murphy</b> </h5>
                         <p>Executive Vice President and Chief Financial Officer</p>
                       </div>
                     </div>
