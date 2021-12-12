@@ -52,12 +52,13 @@
     <!-- content -->
     <div class="container-fluid" style="padding-top: 50px; padding-bottom: 50px; background-color: #191919 ">
         <div  class="row">
-        <div class="col-md-6" style="padding-top: 50px; padding-left:50px;">
-            <img  style="border-radius: 10%" src="assets/tentang/1.jpg">
+        <div class="col-md-6" style="padding-top: 100px; padding-left:40px; color: white">
+        <h2 style=" font-weight:bold; padding-left :80px;">Misi, Visi & Nilai</h2>
+            <p style=" padding-left:80px;"> Peta Jalan kami dimulai dengan misi kami untuk terus bertahan. Misi ini menegaskan tujuan kami sebagai sebuah perusahaan dan berfungsi sebagai standar yang menjadi tolok ukur seluruh tindakan dan keputusan kami. </p> 
             </div> 
-        <div class="col-md-6" style="padding-top: 100px; padding-left:80px;">
-            <h2 style="color: white ; font-weight:bold; padding-left :80px;">Misi, Visi & Nilai</h2>
-            </div> 
+        <div class="col-md-6" style="padding-top: 20px; padding-left:50px;">
+        <img  src="assets/beranda/a.png">
+             </div> 
         </div>
     </div>
 
