@@ -57,7 +57,7 @@
             Company</h1>
             <p class="f">
             Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia. <br><br>
-            <button class="btn btn-light btn-hero" ><a href="/"></a>Baca lagi</button> 
+            <a href="/produk" class="btn btn-light btn-hero">Baca lagi</a>
             </p>
             </div>
             <div class="col-md-6 bg-cola" style="padding-right:50px;">
