@@ -14,7 +14,7 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #333333">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #191919">
             <div class="container-fluid">
                 <div class="brand">
                     <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;" src="{{ ('assets/beranda/3.png') }}" alt=""></a>
@@ -50,20 +50,18 @@
         </nav>
     </div>
 
-    <div class="container-fluid" style="padding-top: 120px;padding-bottom: 40px; padding-left: 40px; background-color: rgb(255, 51, 51) ">
+    <div class="container-fluid" style="padding-top: 120px;padding-bottom: 50px; padding-left: 40px; background-color: #191919; ">
         <div class="row">
-            <div class="col-md-6">
-                <img class="g" src="{{ ('assets/beranda/b1.jpg') }}" alt="">
-            </div>
-            <div class="col-md-6" style="padding-top: 100px;">
+            <div class="col-md-6" style="padding-top: 100px; padding-left:40px;">
             <h2 style="color: white ; ">The Coca-Cola Company</h2>
             <p class="f">
             Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia. <br><br>
-                <button class="btn btn-light" ><a href="/"></a>Baca lagi</button> 
+            <button class="btn btn-light" ><a href="/"></a>Baca lagi</button> 
             </p>
-        
             </div>
-            
+            <div class="col-md-6 bg-cola">
+                <img class="g" src="{{ ('assets/beranda/hero-sec.png') }}" alt="">
+            </div>
         </div>
     </div>
 
@@ -102,39 +100,6 @@
                 <div id="carousel1" class="owl-carousel">
 
                   <!--Testimonial Card-->
-                  <div class="item">
-                    <div class="card text-center">
-                      <div class="card-body">
-                        <h5>Jamilsannie<br/> <span>Buyer From Fiverr</span></h5>
-                        <p class="card-text">
-                          "Yosef has quickly become my go to guy for website U/I design. 
-                          5 jobs in and I'm still impressed with the quality of speed of his work"
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item">
-                    <div class="card text-center">
-                      <div class="card-body">
-                        <h5>michaelcrumpton<br/> <span>Client From Fiverr</span></h5>
-                        <p class="card-text">
-                          "Really happy with the final design, it only needed minimal changes 
-                          to make it perfect and these were done quickly. Thank you very much."
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item">
-                    <div class="card text-center">
-                      <div class="card-body">
-                        <h5>tqwhite5<br/> <span>Client From Fiverr</span></h5>
-                        <p class="card-text">
-                          "I will 100% be coming back to Yosef for another project in the near future, and in the distant future. 
-                          He offers great prices, fantastic work, and was great at communicating throughout the process."
-                        </p>
-                      </div>
-                    </div>
-                  </div>
                   <div class="item">
                     <div class="card text-center">
                       <div class="card-body">
