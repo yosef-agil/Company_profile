@@ -32,8 +32,8 @@
                     <h3 style="text-align:center;">Log In - Admin</h3><br>
                     <hr>
                     <div class="col-md-12">
-                        <label for="formGroupExampleInput" class="form-label">Email</label>
-                        <input type="text" class="form-control" name="email" id="formGroupExampleInput" placeholder="Your email address..">
+                        <label for="formGroupExampleInput" class="form-label">username</label>
+                        <input type="text" class="form-control" name="nama" id="formGroupExampleInput" placeholder="Your email address..">
                     </div>
                     <div class="pass col-md-12">
                         <label for="formGroupExampleInput2" class="form-label">Password</label>
