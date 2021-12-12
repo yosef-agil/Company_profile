@@ -46,8 +46,8 @@
                 <hr>
                 <ul class="nav nav-pills flex-column mb-auto">
                     <li class="nav-item"> <a href="#" class="nav-link active" aria-current="page">Dashboard</a> </li>
-                    <li> <a href="ADMIN_data_penerima.php" class="nav-link text-white">Data Penerima</a> </li>
-                    <li> <a href="ADMIN_data_pengirim.php" class="nav-link text-white">Data Pengirim</a> </li>
+                    <li> <a href="ADMIN_data_penerima.php" class="nav-link text-white">Data admin</a> </li>
+                    <li> <a href="ADMIN_data_pengirim.php" class="nav-link text-white">Data user</a> </li>
                     <li> <a href="ADMIN_report.php" class="nav-link text-white">Report</a> </li>
                 </ul>
             </div>
