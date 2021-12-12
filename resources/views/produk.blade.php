@@ -17,7 +17,7 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #333333">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #191919">
             <div class="container-fluid">
                 <div class="brand">
                     <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;"
@@ -147,8 +147,7 @@
                                         <p class="card-text">
                                             Minute Maid Minuman yang
                                             mengandung susu asli dan sari buah bikin kombinasi yang Mix enaxx! Tersedia
-                                            dalam 4 rasa
-                                            menarik, jeruk, stroberi, mangga dan apel.<br><br>
+                                            dalam 4 rasa menarik, jeruk, stroberi, mangga dan apel.<br><br>
                                             <a href="/produk4" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
@@ -162,8 +161,7 @@
                                         <p class="card-text">
                                             Coca-Cola adalah minuman
                                             ringan paling populer dan paling laris dalam sejarah, serta salah satu merek
-                                            yang paling
-                                            dikenal di dunia.<br><br>
+                                            yang paling dikenal di dunia.<br><br>
                                             <a href="/produk3" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
@@ -210,7 +208,7 @@
     </section>
 
 
-    <div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
+    <div class="container-fluid" style="padding-top: 50px; background-color: #191919 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">

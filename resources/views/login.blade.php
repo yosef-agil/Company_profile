@@ -13,18 +13,20 @@
             <div class="col-2">
             </div>
             <div class="col-8">
-			<form method="POST" action="/admincek">
-                 {{ csrf_field() }}
-                <label for="exampleFormControlInput1" class="form-label">UserName</label>
-                <input type="text" class="form-control"  name="nama" id="exampleFormControlInput1" placeholder="UserName">
+                <form method="POST" action="/admincek">
+                    {{ csrf_field() }}
+                    <label for="exampleFormControlInput1" class="form-label">UserName</label>
+                    <input type="text" class="form-control" name="nama" id="exampleFormControlInput1"
+                        placeholder="UserName">
+                        
+                    <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+                    <input type="password" class="form-control" name="password" id="inputPassword"
+                        placeholder="Password">
 
-                <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
-                <input type="password" class="form-control"  name="password" id="inputPassword" placeholder="Password">
-
-				<button type="submit" value="submit" class="btn btn-primary">Submit</button>
-			</form>
-			<div class="col-2">
-			</div>
+                    <button type="submit" value="submit" class="btn btn-primary">Submit</button>
+                </form>
+                <div class="col-2">
+                </div>
             </div>
         </div>
 </body>

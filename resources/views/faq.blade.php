@@ -13,7 +13,7 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #333333">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #191919">
             <div class="container-fluid">
                 <div class="brand">
                     <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;" src="{{ ('assets/beranda/3.png') }}" alt=""></a>
@@ -128,7 +128,7 @@
         </div>
     </div>
 
-    <div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
+    <div class="container-fluid" style="padding-top: 50px; background-color: #191919 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
