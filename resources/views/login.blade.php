@@ -32,7 +32,7 @@
                     <h3 style="text-align:center;">Log In - Admin</h3><br>
                     <hr>
                     <div class="col-md-12">
-                        <label for="formGroupExampleInput" class="form-label">username</label>
+                        <label for="formGroupExampleInput" class="form-label">Username</label>
                         <input type="text" class="form-control" name="nama" id="formGroupExampleInput" placeholder="Your username..">
                     </div>
                     <div class="pass col-md-12">
