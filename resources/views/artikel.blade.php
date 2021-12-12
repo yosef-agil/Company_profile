@@ -69,24 +69,18 @@
                             <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/artikel/1.jpg') }}"
                                 alt="">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>First slide label</h5>
-                                <p>Some representative placeholder content for the first slide.</p>
                             </div>
                         </div>
                         <div class="carousel-item bg-dark">
                             <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/artikel/Recycle me.jpg') }}"
                                 alt="">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Second slide label</h5>
-                                <p>Some representative placeholder content for the second slide.</p>
                             </div>
                         </div>
                         <div class="carousel-item bg-dark">
                             <img style=" width:100%;" class="d-block w-100" src="{{ ('assets/artikel/covid.jpg') }}"
                                 alt="">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Third slide label</h5>
-                                <p>Some representative placeholder content for the third slide.</p>
                             </div>
                         </div>
                     </div>
@@ -108,19 +102,58 @@
                 <div class="col-2">
                 </div>
                 <div class="col-8">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ab fugit alias ut. Repellendus esse
-                        inventore id nihil accusantium a exercitationem quo libero, amet eaque.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ab fugit alias ut. Repellendus esse
-                        inventore id nihil accusantium a exercitationem quo libero, amet eaque.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ab fugit alias ut. Repellendus esse
-                        inventore id nihil accusantium a exercitationem quo libero, amet eaque.</p>
+                <p>Liputan6.com, Jakarta - Coca-Cola mengumumkan telah membeli saham produsen minuman olahraga Bodyarmor senilai USD 5,6
+                     miliar atau setara Rp 79,83 triliun (asumsi kurs Rp 14.255 per dolar AS). Transaksi pembelian saham itu menjadikan 
+                     akuisisi merek terbesar perseroan hingga kini.</p>
+                <p>Coca Cola membeli 15 persen saham  Bodyarmor pada 2018, dan menjadikannya pemegang saham terbesar kedua. Pada saat
+                     itu, legenda bola basket Kobe Bryant adalah pemegang saham terbesar ketiga setelah investasi di Bodyarmor pada
+                      2013, hanya dua tahun setelah pendiriannya.</p>
+                <p>Berdasarkan the Wall Street Journal, penerima harta peninggalan mendiang bintang NBA itu terima sekitar USD 400 juta
+                     atau sekitar Rp 5,70 triliun dari penjualan saham itu.</p>
+                <p>Kesepakatan sisa 85 persen saham Bodyarmor tidak sepenuhnya tidak terduga. Coca Cola pertama kali mengatakan pada 
+                    Februari untuk membeli saham pengendali di Bodyarmor pada akhir 2021, dalam pengajuan pra-akuisisi.</p>
+                <p>Mengutip laman CNBC, Senin (1/11/2021), Coca Cola memiliki Bodyarmor membantu mendapatkan pangsa pasar untuk kategori
+                     minuman olahraga meski pun Gatorade dan PepsiCo jauh dari pemimpin pasar dengan sekitar 70 persen pangsa pasar.</p>
+                <p>Dengan klaim sebagai minuman olahraga yang lebih sehat, Bodyarmor telah melampaui Coke’s Powerade untuk menjadi 
+                    pemain terbesar kedua dalam kategori ini.</p>
+                <p>Menurut Coke, penjualan ritel merek minuman olahraga naik 50 persen menjadi lebih dari USD 1,4 miliar atau sekitar 
+                    Rp 19,96 triliun pada 2021. Sebagai bagian dari kesepakatan, salah satu pendiri Bodyarmor, Mike Repole akan 
+                    berkolaborasi dalam portofolio minuman perseroan.</p>
+                <p>Repole juga mendirikan merek Vitaminwater, Smartwater, dan Energy yang semuanya sekarang dimiliki oleh Coke. 
+                    Presiden Repole dan Bodyarmor Brent Hastie juga akan membantu Bodyarmor dalam usahanya menyalip Gatorade.</p>
+                <p>Jelang konfirmasi kesepakatan, Analis Credit Suisse Kaumil Gajrawala menulis kepada klien pada Jumat, 29 Oktober 
+                    2021, pihaknya berharap akuisisi akan positif untuk Coke. Selain itu, melihat peluang Coke untuk distribusikan 
+                    minuman olahraga secara global.</p>
+                <p>Coke telah merombak portofolionya sejak awal pandemi lantaran telah memukul bisnis. Hal itu termasuk minuman Coca 
+                    Cola plus untuk tawanan. Pada saat yang sama CEO James Quincey telah berusaha untuk menawarkan beragam minuman.</p>
+                <p>Kesepakatan Bodyarmor adalah akuisisi merek terbesar Coke yang melampaui pembelian Costa Coffee pada 2018 senilai 
+                    USD 5,1 miliar atau setara Rp 72,72 triliun.</p>
+                <p>Saham Coke telah naik dua persen pada 2021, dan membawa kapitalisasi pasar perseroan USD 242 miliar atau setara 
+                    Rp 3.450 triliun.</p>
                 </div>
                 <div class="col-2">
                 </div>
             </div>
         </div>
     </div>
+    
+    <!-- pager -->
+    <div class="container">
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <h2>Button Group</h2>
+  <p>The .btn-group class creates a button group:</p>
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary">Apple</button>
+    <button type="button" class="btn btn-primary">Samsung</button>
+    <button type="button" class="btn btn-primary">Sony</button>
+  </div>
+</div>
 
+    <!-- content -->
     <div class="container-fluid bg-light" style="padding-top: 50px;">
         <div class="row">
             <div class="col-12">
@@ -164,6 +197,16 @@
         </div>
     </div>
 
+<!-- Back to top button -->
+<div>
+<button
+        type="button"
+        class="btn btn-danger btn-floating btn-lg"
+        id="btn-back-to-top"
+        >
+  <i class="fas fa-arrow-up"></i>
+</button>
+</div>
 </body>
 
 </html>
