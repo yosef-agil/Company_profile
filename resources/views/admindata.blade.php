@@ -42,13 +42,11 @@
             <!-- side bar menu -->
             <div class="d-flex flex-column vh-100 flex-shrink-0 p-3 text-white bg-dark" style="width: 250px;">
                 <a href="/" style="margin-left:16px;" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none fs-4">
-                    Cola<span class="fs-4" style="color:#75CB79;"></span> </a>
+                    Coca - Cola<span class="fs-4" style="color:#75CB79;"></span> </a>
                 <hr>
                 <ul class="nav nav-pills flex-column mb-auto">
-                    <li> <a href="/admin" class="nav-link text-white" aria-current="page">Dashboard</a> </li>
-                    <li class="nav-item"> <a href="/" class="nav-link active">Data admin</a> </li>
-                    <li> <a href="/admindata" class="nav-link text-white">Data user</a> </li>
-                    <li> <a href="/" class="nav-link text-white">Report</a> </li>
+                    <li class="nav-item"> <a href="/admindata" class="nav-link active">Data admin</a> </li>
+                    <li> <a href="/admin" class="nav-link text-white">Data Pesan</a> </li>
                 </ul>
             </div>
         </div>
