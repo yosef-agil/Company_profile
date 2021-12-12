@@ -77,7 +77,7 @@
                     Fuga ab fugit alias ut. Repellendus esse inventore id nihil
                     accusantium a exercitationem quo libero, amet eaque.
                 </p>
-                <button class="btn btn-primary"><a href="/"></a>Baca lagi</button>
+                <button class="btn btn-primary"><a href="/produk"></a>Baca lagi</button>
             </div>
 
             <!-- image -->
