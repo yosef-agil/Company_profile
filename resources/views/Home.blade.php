@@ -23,8 +23,8 @@
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav" style="padding-right: 50px; padding-left: 120px;">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 650px;">
+                    <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link active" style="color: white" aria-current="page" href="/home">Home</a>
                         </li>
