@@ -46,7 +46,7 @@
     </div>
 
 <!-- content -->
-<div class="container" style="padding-top: 80px; ">
+<div class="container" style="padding-top: 100px; text-align: justify ">
   <div class="row ">
     <div class="col-2">
     </div>
@@ -156,15 +156,10 @@
 <!-- footer -->
 <section class="ftco-section">
         <div class="container" style="padding-top: 50px;">
-            <div class="row ">
-                <div class="col-12">
-                    <hr size="5px">
-                </div>
-            </div>
         </div>
         </div>
     </section>
-    <div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
+    <div class="container-fluid" style="padding-bottom: 50px; padding-top: 50px; background-color: #333333 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
