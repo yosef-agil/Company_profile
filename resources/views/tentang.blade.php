@@ -14,10 +14,9 @@
         <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #191919">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;"
+                    <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%; "
                             src="{{ ('assets/beranda/3.png') }}" alt=""></a>
                 </div>
-
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -51,15 +50,18 @@
 
 
     <!-- content -->
-    <div class="container-fluid" style="padding-top: 100px; background-color: #191919 ">
+    <div class="container-fluid" style="padding-top: 50px; padding-bottom: 50px; background-color: #191919 ">
         <div  class="row">
-        <div class="col-12" style="padding-top: 100px; padding-left:80px;">
-            <img src="assets/tentang/1.jpg">
+        <div class="col-md-6" style="padding-top: 50px; padding-left:50px;">
+            <img  style="border-radius: 10%" src="assets/tentang/1.jpg">
+            </div> 
+        <div class="col-md-6" style="padding-top: 100px; padding-left:80px;">
+            <h2 style="color: white ; font-weight:bold; padding-left :80px;">Misi, Visi & Nilai</h2>
             </div> 
         </div>
     </div>
 
-        <div class="container" style="padding-top: 100px;  ">
+        <div class="container" style="padding-top: 30px;  ">
         <div class="row" style="padding-top: 20px; padding-bottom: 40px; text-align: justify">
             <div class="col-2">
             </div>
