@@ -61,6 +61,9 @@
                 <div class="col-md-6">
                     <h4>Data Admin</h4>
                 </div>
+                <div class="col-md-6 d-flex justify-content-end">
+                    <a href="/tambahdata" class="btn btn-danger">Tambah data</a>
+                </div>
                 <hr style="margin-top:25px;">
             </div>
 
