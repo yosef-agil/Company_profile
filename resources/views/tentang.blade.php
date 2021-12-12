@@ -51,22 +51,15 @@
 
 
     <!-- content -->
-    <div class="container" style="padding-top: 100px; ">
-        <div class="text-center" class="row">
-            <div class="col-2">
-            </div>
-            <div class="col-8">
-            </div>
-            <h3>Misi, Visi & Nilai</h3>
-            <div class="col-2">
-            </div>
-
-            <div class="col-12" style="padding-top: 20px; ">
-                <img src="assets/tentang/1.jpg">
-
-            </div>
+    <div class="container-fluid" style="padding-top: 100px; background-color: #191919 ">
+        <div  class="row">
+        <div class="col-12" style="padding-top: 100px; padding-left:80px;">
+            <img src="assets/tentang/1.jpg">
+            </div> 
         </div>
+    </div>
 
+        <div class="container" style="padding-top: 100px;  ">
         <div class="row" style="padding-top: 20px; padding-bottom: 40px; text-align: justify">
             <div class="col-2">
             </div>
