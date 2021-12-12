@@ -77,7 +77,7 @@
                                             berbagai rasa seperti Air Soda, Rasa Jahe dan Air Tonik yang dapat dinikmati
                                             sendiri, atau
                                             dikombinasikan dengan varian minuman. <br><br>
-                                            <a href="/produk9" class="btn btn-primary">Details</a>
+                                            <a href="/produk9" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -90,7 +90,7 @@
                                         <p class="card-text">
                                             Merek minuman jenis root
                                             beer yang terutama tersedia di Amerika Serikat dan Kanada. <br><br>
-                                            <a href="/produk8" class="btn btn-primary">Details</a>
+                                            <a href="/produk8" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -105,7 +105,7 @@
                                             kedua The Coca-Cola Company dan merek terbesar kedua di luar Amerika
                                             Serikat.
                                             Fanta Orange adalah rasa utama dari Fanta.<br><br>
-                                            <a href="/produk7" class="btn btn-primary">Details</a>
+                                            <a href="/produk7" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                         <p class="card-text">
                                             Sprite adalah minuman
                                             ringan dengan aroma rasa lemon-jeruk terkemuka di dunia.<br><br>
-                                            <a href="/produk6" class="btn btn-primary">Details</a>
+                                            <a href="/produk6" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -134,7 +134,7 @@
                                             menggunakan teknologi tinggi dan didukung oleh proses produksi yang baik,
                                             demi memastikan
                                             bahwa setiap botol Frestea memilki kualitas yang sama.<br><br>
-                                            <a href="/produk5" class="btn btn-primary">Details</a>
+                                            <a href="/produk5" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@
                                             mengandung susu asli dan sari buah bikin kombinasi yang Mix enaxx! Tersedia
                                             dalam 4 rasa
                                             menarik, jeruk, stroberi, mangga dan apel.<br><br>
-                                            <a href="/produk4" class="btn btn-primary">Details</a>
+                                            <a href="/produk4" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -164,7 +164,7 @@
                                             ringan paling populer dan paling laris dalam sejarah, serta salah satu merek
                                             yang paling
                                             dikenal di dunia.<br><br>
-                                            <a href="/produk3" class="btn btn-primary">Details</a>
+                                            <a href="/produk3" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -180,7 +180,7 @@
                                             1980an,
                                             kini Aquarius hadir di Indonesia untuk menemanimu beraktifitas berat dan
                                             berkeringat.<br><br>
-                                            <a href="/produk2" class="btn btn-primary">Details</a>
+                                            <a href="/produk2" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
@@ -196,7 +196,7 @@
                                             ini menampilkan Ades sebagai air minum dalam kemasan yang Murni, Aman dan
                                             Terpercaya, yang
                                             dijamin oleh The Coca-Cola Company.<br><br>
-                                            <a href="/produk1" class="btn btn-primary">Details</a>
+                                            <a href="/produk1" class="btn btn-dark">Details</a>
                                         </p>
                                     </div>
                                 </div>
