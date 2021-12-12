@@ -50,23 +50,24 @@
         </nav>
     </div>
 
-    <div class="container-fluid" style="padding-top: 120px;padding-bottom: 50px; padding-left: 40px; background-color: #191919; ">
+    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 100px; padding-left: 40px; background-color: #191919; ">
         <div class="row">
-            <div class="col-md-6" style="padding-top: 100px; padding-left:40px;">
-            <h2 style="color: white ; ">The Coca-Cola Company</h2>
+            <div class="col-md-6" style="padding-top: 100px; padding-left:80px;">
+            <h1 style="color: white ; font-weight:bold; padding-right:150px;">The Coca-Cola 
+            Company</h1>
             <p class="f">
             Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia. <br><br>
-            <button class="btn btn-light" ><a href="/"></a>Baca lagi</button> 
+            <button class="btn btn-light btn-hero" ><a href="/"></a>Baca lagi</button> 
             </p>
             </div>
-            <div class="col-md-6 bg-cola">
+            <div class="col-md-6 bg-cola" style="padding-right:50px;">
                 <img class="g" src="{{ ('assets/beranda/hero-sec.png') }}" alt="">
             </div>
         </div>
     </div>
 
     <!-- content -->
-    <div class="container-fluid bg-light" style="padding-top: 20px;">
+    <div class="container-fluid" style="padding:40px 40px 40px 40px;">
         <div class="row align-self-center" style="margin:110px 8px 110px 8px;">
 
             <!-- Heading & title -->
