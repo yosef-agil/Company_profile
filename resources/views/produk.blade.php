@@ -6,17 +6,19 @@
     <script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
+     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css"/>
 
 </head>
 
 <body>
     <!-- navbar -->
-    <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" style="height: 80px;">
+   <div class="container-fluid">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #333333">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img
-                            style=" width:30%;padding-bottom: 10px;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
+                    <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;" src="{{ ('assets/beranda/3.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -24,25 +26,25 @@
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav" style="padding-right: 100px;">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 300px; padding-right:40px;">
+                    <ul class="navbar-nav  ms-auto ">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="/home">Home</a>
+                            <a class="nav-link active" style="color: white" aria-current="page" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="/produk">Produk</a>
+                            <a class="nav-link" style="color: white" href="/produk">Produk</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/artikel">Artikel</a>
+                            <a class="nav-link" style="color: white" href="/artikel">Artikel</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/kontak">Kontak</a>
+                            <a class="nav-link" style="color: white" href="/kontak">Kontak</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/tentang">Tentang</a>
+                            <a class="nav-link" style="color: white" href="/tentang">Tentang</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="/faq">FAQ</a>
+                            <a class="nav-link " style="color: white" href="/faq">FAQ</a>
                         </li>
                 </div>
             </div>
@@ -183,8 +185,101 @@
         </div>
     </div>
 
-    <!-- footer -->
-    <div class="container-fluid bg-light" style="padding-top: 50px;">
+          <!--Reviews Section-->
+      <section class="section-5">
+        <div class="container-fluid px-lg-4 px-md-4">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="testimonials">
+                <div class="desc">
+                  <h3 class="judul">What They Says</h3>
+                </div>
+                <div id="carousel1" class="owl-carousel">
+
+                  <!--Testimonial Card-->
+                  <div class="item">
+                    <div class="card text-center">
+                      <img src="Images/p1.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <h5>Jamilsannie<br/> <span>Buyer From Fiverr</span></h5>
+                        <p class="card-text">
+                          "Yosef has quickly become my go to guy for website U/I design. 
+                          5 jobs in and I'm still impressed with the quality of speed of his work"
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                      <img src="Images/p2.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <h5>michaelcrumpton<br/> <span>Client From Fiverr</span></h5>
+                        <p class="card-text">
+                          "Really happy with the final design, it only needed minimal changes 
+                          to make it perfect and these were done quickly. Thank you very much."
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                      <img src="Images/p3.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <h5>tqwhite5<br/> <span>Client From Fiverr</span></h5>
+                        <p class="card-text">
+                          "I will 100% be coming back to Yosef for another project in the near future, and in the distant future. 
+                          He offers great prices, fantastic work, and was great at communicating throughout the process."
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                      <img src="Images/p4.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <h5>Conor McGowan<br/> <span>Client From Upwork</span></h5>
+                        <p class="card-text">
+                          "osef did a very nice job for us designing pages for us using Figma. He was very 
+                          efficient and everything turned out great. We plan to work with him again in the near future."
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                      <img src="Images/p5.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <h5>ankushmalhotra<br/> <span>Client From Fiverr</span></h5>
+                        <p class="card-text">
+                          "Clear communications and designs are of great quality. The designer and both times followed the 
+                          same process which worked quite efficient. The given requirements were implemented as expected"
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                      <img src="Images/p6.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <h5>sourcefba<br/> <span>Client From Fiverr</span></h5>
+                        <p class="card-text">
+                          "Yousef is dedicated and a great designer. He went through many revisions with me until I was satisfied. 
+                          Absolutely will go with yousef for all my future design needs."
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+    <div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
@@ -193,17 +288,17 @@
                             <div class="col-md-12 text-center">
                                 <h2 class="footer-heading">Coca Cola Company</h2>
                                 <p class="menu">
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/home">Home</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/produk">Produk Kami</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/artikel">Artikel</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/kontak">Kontak Kami</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/tentang">Tentang</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/faq">FAQ</a>
                                 </p>
                                 <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"
@@ -226,6 +321,54 @@
             </div>
         </div>
     </div>
+
+
+    <!-- JS SCRIPT -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel12/2.3.4/owl.carousel.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" 
+    integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!--Script-->
+    <script type="text/javascript">
+      var $owl = $('#carousel1');
+      $owl.children().each(function (index){
+        $(this).attr('data-position', index);
+      });
+
+      $("#carousel1").owlCarousel({
+        loop: false,
+        center: true,
+        margin: 0,
+        responsiveClass: true,
+        nav: false,
+        responsive:{
+          0:{
+            items: 1
+          },
+          680:{
+            items: 2
+          },
+          1000:{
+            items: 3
+          }
+        }
+      });
+
+      $(document).on('click','.owl-item>div', function(){
+        var $speed = 1000;
+        $owl.trigger('to.owl.carousel', [$(this).data('position'), $speed]);
+      });
+    </script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" 
+      integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
 </body>
 
