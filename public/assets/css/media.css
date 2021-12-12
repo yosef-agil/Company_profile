@@ -40,3 +40,8 @@
   margin-top: 25px;
   padding: 12px 45px 12px 45px;
 }
+
+.bor{
+  border-radius: 20%;
+  padding-bottom: 10px;
+}

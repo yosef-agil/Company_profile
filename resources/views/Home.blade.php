@@ -71,18 +71,16 @@
         <div class="row align-self-center" style="margin:110px 8px 110px 8px;">
 
             <!-- Heading & title -->
-            <div class="col-md-6">
+            <div class="col-md-6" style="text-align: justify">
                 <h2>Gandeng Anak-anak muda, Cola-cola Luncurkan Program Plastic Reborn 2.0</h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Fuga ab fugit alias ut. Repellendus esse inventore id nihil
-                    accusantium a exercitationem quo libero, amet eaque.
-                </p>
-                <button class="btn btn-primary"><a href="/produk"></a>Baca lagi</button>
+                Program Plastic Reborn 2.0 adalah bagian dari visi World Without Waste yang diluncurkan oleh The Coca-Cola Company. 
+                Visi global tersebut disusun oleh tiga pilar utama yakni design, collection, dan partnership.
+                 </p>
             </div>
 
             <!-- image -->
-            <div class="col-md-6" style="padding-bottom: 50px;">
+            <div class="col-md-6" >
                 <img style=" width:100%;" src="{{ ('assets/beranda/img1-beranda.png') }}" alt="">
             </div>
         </div>
@@ -91,12 +89,12 @@
 
       <!--Reviews Section-->
       <section class="section-5">
-        <div class="container-fluid px-lg-4 px-md-4">
+        <div class="container-fluid px-lg-4 px-md-4" >
           <div class="row">
             <div class="col-md-12">
               <div class="testimonials">
                 <div class="desc">
-                  <h3 class="judul">What They Says</h3>
+                  <h3 class="judul">LEADERSHIP</h3>
                 </div>
                 <div id="carousel1" class="owl-carousel">
 
@@ -104,37 +102,57 @@
                   <div class="item">
                     <div class="card text-center">
                       <div class="card-body">
-                        <h5>Conor McGowan<br/> <span>Client From Upwork</span></h5>
-                        <p class="card-text">
-                          "osef did a very nice job for us designing pages for us using Figma. He was very 
-                          efficient and everything turned out great. We plan to work with him again in the near future."
-                        </p>
+                      <img class="bor" src="{{ ('assets/beranda/james.webp') }}" alt="">
+                        <h5 ><b>James Quincey</b> </h5>
+                        <p>Chairman and Chief Executive Officer</p>
                       </div>
                     </div>
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <div class="card-body">
-                        <h5>ankushmalhotra<br/> <span>Client From Fiverr</span></h5>
-                        <p class="card-text">
-                          "Clear communications and designs are of great quality. The designer and both times followed the 
-                          same process which worked quite efficient. The given requirements were implemented as expected"
-                        </p>
+                    <div class="card-body">
+                      <img class="bor" src="{{ ('assets/beranda/jhon.webp') }}" alt="">
+                        <h5 ><b>John Murphy</b>> </h5>
+                        <p>Executive Vice President and Chief Financial Officer</p>
                       </div>
                     </div>
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <div class="card-body">
-                        <h5>sourcefba<br/> <span>Client From Fiverr</span></h5>
-                        <p class="card-text">
-                          "Yousef is dedicated and a great designer. He went through many revisions with me until I was satisfied. 
-                          Absolutely will go with yousef for all my future design needs."
-                        </p>
+                    <div class="card-body">
+                      <img class="bor" src="{{ ('assets/beranda/brian.webp') }}" alt="">
+                        <h5 ><b>Brian Smith</b> </h5>
+                        <p>President and Chief Operating Officer</p>
                       </div>
                     </div>
                   </div>
-
+                  <div class="item">
+                    <div class="card text-center">
+                    <div class="card-body">
+                      <img class="bor" src="{{ ('assets/beranda/manuel.webp') }}" alt="">
+                        <h5 ><b>Manuel Arroyo</b> </h5>
+                        <p>Global Chief Marketing Officer</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                    <div class="card-body">
+                      <img class="bor" src="{{ ('assets/beranda/stacy.webp') }}" alt="">
+                        <h5 ><b>Stacy Apter</b> </h5>
+                        <p>Vice President, Corporate Treasurer</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card text-center">
+                    <div class="card-body">
+                      <img class="bor" src="{{ ('assets/beranda/barry.webp') }}" alt="">
+                        <h5 >Barry Ballow</b> </h5>
+                        <p>Vice President, Internal Audit</p>
+                      </div>
+                    </div>
+                  </div>
 
                 </div>
               </div>
