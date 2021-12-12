@@ -67,7 +67,7 @@
     </div>
 
     <!-- content -->
-    <div class="container-fluid bg-light" style="padding-top: 20px;">
+    <div class="container-fluid" style="padding:40px 40px 40px 40px;">
         <div class="row align-self-center" style="margin:110px 8px 110px 8px;">
 
             <!-- Heading & title -->
