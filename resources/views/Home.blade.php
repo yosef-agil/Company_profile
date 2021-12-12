@@ -50,13 +50,14 @@
         </nav>
     </div>
 
-    <div class="container-fluid" style="padding-top: 120px;padding-bottom: 50px; padding-left: 40px; background-color: #191919; ">
+    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 60px; padding-left: 40px; background-color: #191919; ">
         <div class="row">
             <div class="col-md-6" style="padding-top: 100px; padding-left:40px;">
-            <h2 style="color: white ; ">The Coca-Cola Company</h2>
+            <h1 style="color: white ; font-weight:bold; padding-right:150px;">The Coca-Cola 
+            Company</h1>
             <p class="f">
             Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia. <br><br>
-            <button class="btn btn-light" ><a href="/"></a>Baca lagi</button> 
+            <button class="btn btn-light btn-hero" ><a href="/"></a>Baca lagi</button> 
             </p>
             </div>
             <div class="col-md-6 bg-cola">
