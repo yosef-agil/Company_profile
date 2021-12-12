@@ -22,8 +22,8 @@
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 650px;">
-                    <ul class="navbar-nav">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 300px; padding-right:40px;">
+                    <ul class="navbar-nav  ms-auto ">
                         <li class="nav-item">
                             <a class="nav-link active" style="color: white" aria-current="page" href="/home">Home</a>
                         </li>
@@ -46,6 +46,7 @@
             </div>
         </nav>
     </div>
+
 
     <!-- content -->
     <div class="contac">
