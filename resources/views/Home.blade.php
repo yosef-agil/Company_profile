@@ -12,10 +12,10 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color:rgb(254, 254, 254)">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #333333">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:30%;" src="{{ ('assets/beranda/com.png') }}" alt=""></a>
+                    <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;" src="{{ ('assets/beranda/3.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -24,34 +24,34 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav" style="padding-right: 100px;">
+                    <ul class="navbar-nav" style="padding-right: 50px; padding-left: 120px;">
                         <li class="nav-item">
-                            <a class="nav-link active" style="color: rgb(255, 0, 0);" aria-current="page" href="/home">Home</a>
+                            <a class="nav-link active" style="color: white" aria-current="page" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/produk">Produk</a>
+                            <a class="nav-link" style="color: white" href="/produk">Produk</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/artikel">Artikel</a>
+                            <a class="nav-link" style="color: white" href="/artikel">Artikel</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/kontak">Kontak</a>
+                            <a class="nav-link" style="color: white" href="/kontak">Kontak</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/tentang">Tentang</a>
+                            <a class="nav-link" style="color: white" href="/tentang">Tentang</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " style="color: rgb(255, 0, 0);" href="/faq">FAQ</a>
+                            <a class="nav-link " style="color: white" href="/faq">FAQ</a>
                         </li>
                 </div>
             </div>
         </nav>
     </div>
 
-    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 100px;">
+    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 100px; background-color: rgb(255, 51, 51) ">
         <div class="row">
             <div class="col">
-                <img style=" width:50%;" src="{{ ('assets/beranda/b1.jpg') }}" alt="">
+                <img style=" width:100%;" src="{{ ('assets/beranda/b1.jpg') }}" alt="">
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@
         </div>
     </div>
 
-    <div class="container-fluid" style="padding-top: 50px; background-color:rgb(255, 51, 51);">
+    <div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
@@ -87,17 +87,17 @@
                             <div class="col-md-12 text-center">
                                 <h2 class="footer-heading">Coca Cola Company</h2>
                                 <p class="menu">
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/home">Home</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/produk">Produk Kami</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/artikel">Artikel</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/kontak">Kontak Kami</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/tentang">Tentang</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/faq">FAQ</a>
                                 </p>
                                 <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"
