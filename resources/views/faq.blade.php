@@ -13,11 +13,10 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" style="height: 80px;">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color: #333333">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img
-                            style=" width:30%;padding-bottom: 10px;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
+                    <a class="navbar-brand" href="/home" style="padding-left: 40px;"><img style=" width:30%;" src="{{ ('assets/beranda/3.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -25,30 +24,31 @@
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav" style="padding-right: 100px;">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 300px; padding-right:40px;">
+                    <ul class="navbar-nav  ms-auto ">
                         <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="/home">Home</a>
+                            <a class="nav-link " style="color: white" aria-current="page" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="/produk">Produk</a>
+                            <a class="nav-link" style="color: white" href="/produk">Produk</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/artikel">Artikel</a>
+                            <a class="nav-link " style="color: white" href="/artikel">Artikel</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/kontak">Kontak</a>
+                            <a class="nav-link" style="color: white" href="/kontak">Kontak</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/tentang">Tentang</a>
+                            <a class="nav-link" style="color: white" href="/tentang">Tentang</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="/faq">FAQ</a>
+                            <a class="nav-link active " style="color: white" href="/faq">FAQ</a>
                         </li>
                 </div>
             </div>
         </nav>
     </div>
+
 
 
     <!-- content -->
@@ -130,7 +130,7 @@
         </div>
     </div>
 
-    <div class="container-fluid bg-light" style="padding-top: 50px;">
+    <div class="container-fluid" style="padding-top: 50px; background-color: #333333 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
@@ -139,17 +139,17 @@
                             <div class="col-md-12 text-center">
                                 <h2 class="footer-heading">Coca Cola Company</h2>
                                 <p class="menu">
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/home">Home</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/produk">Produk Kami</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/artikel">Artikel</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/kontak">Kontak Kami</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/tentang">Tentang</a> |
-                                    <a aria-current="page" style="text-decoration:none ;color: black"
+                                    <a aria-current="page" style="text-decoration:none ;color: white"
                                         href="/faq">FAQ</a>
                                 </p>
                                 <a href="https://www.facebook.com/Coca-Cola/" class="fa fa-facebook"
