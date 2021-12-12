@@ -28,8 +28,7 @@
 			<td>{{ $b->alamat }}</td>
 			<td>{{ $b->pesan }}</td>
 			<td>
-				<a href="/editbarang/{{ $b->id }}" class="btn btn-warning">Edit</a> |
-				<a href="/deletebarang/{{ $b->id }}" class="btn btn-danger">Delete</a>
+				<a href="/deleteuser/{{ $b->id }}" class="btn btn-danger">Delete</a>
 			</td>
 		</tr>
 		@endforeach

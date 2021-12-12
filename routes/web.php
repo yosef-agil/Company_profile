@@ -53,7 +53,6 @@ Route::get('/faqhubungi','App\Http\Controllers\mycontroller@functionfaqhubungi')
 Route::get('/login','App\Http\Controllers\mycontroller@functionlogin');
 Route::post('/admincek','App\Http\Controllers\mycontroller@cek');
 
-
 //SELECT
 Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
 Route::get('/admindata','App\Http\Controllers\mycontroller@admindata');
@@ -69,4 +68,5 @@ Route::post('/proses_edit','App\Http\Controllers\mycontroller@editdata');
 
 //DELETE
 Route::get('/deletedata/{id}','App\Http\Controllers\mycontroller@deleteadmin');
+Route::get('/deleteuser/{id}','App\Http\Controllers\mycontroller@delete');
 
