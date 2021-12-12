@@ -137,7 +137,7 @@
     </div>
     
     <!-- content -->
-    <div class="container-fluid bg-light" style="padding-top: 50px;">
+    <div class="container-fluid" style="padding-top: 50px; background-color: #191919 ; color: white;">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
