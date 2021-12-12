@@ -6,17 +6,16 @@
     <script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/media.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('assets/css/home.css')}}">
     <title>Home</title>
 </head>
 
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" style="height: 80px;">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="height: 80px; background-color:rgb(254, 254, 254)">
             <div class="container-fluid">
                 <div class="brand">
-                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:30%;" src="{{ ('assets/beranda/lg2.png') }}" alt=""></a>
+                    <a class="navbar-brand" href="/home" style="padding-left: 50px;"><img style=" width:30%;" src="{{ ('assets/beranda/com.png') }}" alt=""></a>
                 </div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -27,22 +26,22 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav" style="padding-right: 100px;">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/home">Home</a>
+                            <a class="nav-link active" style="color: rgb(255, 0, 0);" aria-current="page" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="/produk">Produk</a>
+                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/produk">Produk</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/artikel">Artikel</a>
+                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/artikel">Artikel</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/kontak">Kontak</a>
+                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/kontak">Kontak</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/tentang">Tentang</a>
+                            <a class="nav-link" style="color: rgb(255, 0, 0);" href="/tentang">Tentang</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="/faq">FAQ</a>
+                            <a class="nav-link " style="color: rgb(255, 0, 0);" href="/faq">FAQ</a>
                         </li>
                 </div>
             </div>
@@ -52,7 +51,7 @@
     <div class="container-fluid" style="padding-top: 100px;padding-bottom: 100px;">
         <div class="row">
             <div class="col">
-                <img style=" width:100%;" src="{{ ('assets/beranda/h1.jpg') }}" alt="">
+                <img style=" width:50%;" src="{{ ('assets/beranda/b1.jpg') }}" alt="">
             </div>
         </div>
     </div>
@@ -79,7 +78,7 @@
         </div>
     </div>
 
-    <div class="container-fluid bg-light" style="padding-top: 50px;">
+    <div class="container-fluid" style="padding-top: 50px; background-color:rgb(255, 51, 51);">
         <div class="row">
             <div class="col-12">
                 <footer class="footer-07">
