@@ -50,9 +50,9 @@
         </nav>
     </div>
 
-    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 60px; padding-left: 40px; background-color: #191919; ">
+    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 100px; padding-left: 40px; background-color: #191919; ">
         <div class="row">
-            <div class="col-md-6" style="padding-top: 100px; padding-left:40px;">
+            <div class="col-md-6" style="padding-top: 100px; padding-left:80px;">
             <h1 style="color: white ; font-weight:bold; padding-right:150px;">The Coca-Cola 
             Company</h1>
             <p class="f">
@@ -60,7 +60,7 @@
             <button class="btn btn-light btn-hero" ><a href="/"></a>Baca lagi</button> 
             </p>
             </div>
-            <div class="col-md-6 bg-cola">
+            <div class="col-md-6 bg-cola" style="padding-right:50px;">
                 <img class="g" src="{{ ('assets/beranda/hero-sec.png') }}" alt="">
             </div>
         </div>
