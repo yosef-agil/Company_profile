@@ -104,7 +104,6 @@
                   <!--Testimonial Card-->
                   <div class="item">
                     <div class="card text-center">
-                      <img src="Images/p1.jpg" alt="" class="card-img-top">
                       <div class="card-body">
                         <h5>Jamilsannie<br/> <span>Buyer From Fiverr</span></h5>
                         <p class="card-text">
@@ -116,7 +115,6 @@
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <img src="Images/p2.jpg" alt="" class="card-img-top">
                       <div class="card-body">
                         <h5>michaelcrumpton<br/> <span>Client From Fiverr</span></h5>
                         <p class="card-text">
@@ -128,7 +126,6 @@
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <img src="Images/p3.jpg" alt="" class="card-img-top">
                       <div class="card-body">
                         <h5>tqwhite5<br/> <span>Client From Fiverr</span></h5>
                         <p class="card-text">
@@ -140,7 +137,6 @@
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <img src="Images/p4.jpg" alt="" class="card-img-top">
                       <div class="card-body">
                         <h5>Conor McGowan<br/> <span>Client From Upwork</span></h5>
                         <p class="card-text">
@@ -152,7 +148,6 @@
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <img src="Images/p5.jpg" alt="" class="card-img-top">
                       <div class="card-body">
                         <h5>ankushmalhotra<br/> <span>Client From Fiverr</span></h5>
                         <p class="card-text">
@@ -164,7 +159,6 @@
                   </div>
                   <div class="item">
                     <div class="card text-center">
-                      <img src="Images/p6.jpg" alt="" class="card-img-top">
                       <div class="card-body">
                         <h5>sourcefba<br/> <span>Client From Fiverr</span></h5>
                         <p class="card-text">
