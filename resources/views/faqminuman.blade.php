@@ -54,7 +54,7 @@
             <div class="col-2">
             </div>
             <div class="col-8">
-                <h1 class="text-center">Minuman</h1>
+                <h1 class="text-center" style="font-weight:bold">Minuman</h1>
             </div>
             <div class="col-2">
             </div>
@@ -65,7 +65,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight:bold">
                                     1. Apa perbedaan antara Coca-Cola Zero Sugar dan Coca-Cola Light?
                                 </button>
                             </h2>
@@ -82,7 +82,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight:bold">
                                     2. Apa perbedaan antara Coca-Cola Classic, Coca-Cola Zero Sugar dan Coca-Cola Light?
                                 </button>
                             </h2>
@@ -100,7 +100,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight:bold">
                                     3. Berapa banyak minuman yang dijual The Coca-Cola Company di seluruh dunia setiap
                                     harinya?
                                 </button>
@@ -116,7 +116,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight:bold">
                                     4. Apakah The Coca-Cola Company memproduksi minuman yang sama di setiap negara?
                                 </button>
                             </h2>
@@ -135,7 +135,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="font-weight:bold">
                                     5. Apakah Coca-Cola memiliki rasa yang berbeda di berbagai negara?
                                 </button>
                             </h2>

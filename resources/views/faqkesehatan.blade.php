@@ -55,7 +55,7 @@
             <div class="col-2">
             </div>
             <div class="col-8">
-                <h1 class="text-center">Kesehatan</h1>
+                <h1 class="text-center" style="font-weight:bold">Kesehatan</h1>
             </div>
             <div class="col-2">
             </div>
@@ -66,7 +66,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight:bold">
                                     1. Bisakah saya mengkonsumsi Coca-Cola jika saya menderita diabetes?
                                 </button>
                             </h2>
@@ -88,7 +88,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight:bold">
                                     2. Apakah Coca-Cola berdampak buruk bagi gigi saya?
                                 </button>
                             </h2>
@@ -108,7 +108,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight:bold">
                                     3. Apakah minuman berkafein seperti Coca-Cola bisa dihitung sebagai asupan air
                                     harian yang direkomendasikan bagi saya?
                                 </button>
@@ -126,7 +126,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight:bold"> 
                                     4. Apakah minuman ringan dapat menyebabkan obesitas?
                                 </button>
                             </h2>

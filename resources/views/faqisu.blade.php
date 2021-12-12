@@ -55,7 +55,7 @@
             <div class="col-2">
             </div>
             <div class="col-8">
-                <h1 class="text-center">Isu</h1>
+                <h1 class="text-center" style="font-weight:bold">Isu</h1>
             </div>
             <div class="col-2">
             </div>
@@ -66,7 +66,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight:bold">
                                     1. Apakah benar Coca-Cola mengandung kokain?
                                 </button>
                             </h2>
@@ -81,7 +81,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight:bold">
                                     2. Apakah saya bisa menggunakan Coca-Cola sebagai pembersih rumah tangga?
                                 </button>
                             </h2>
@@ -104,7 +104,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight:bold">
                                     3. Apakah benar anda bisa menggunakan Coca-Cola untuk membersihkan toilet?
                                 </button>
                             </h2>
@@ -123,7 +123,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight:bold">
                                     4. Apakah benar gigi akan larut jika dibiarkan semalam di dalam Coca-Cola?
                                 </button>
                             </h2>
@@ -142,7 +142,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="font-weight:bold">
                                     5. Benarkah anda bisa meninggal karena makan Mentos dan minum Coke pada saat yang
                                     bersamaan?
                                 </button>
@@ -167,7 +167,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingSix">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" style="font-weight:bold">
                                     6. Apakah benar mengonsumsi durian sambil meminum Coke dapat menyebabkan kematian?
                                 </button>
                             </h2>
@@ -183,7 +183,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingSeven">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven" style="font-weight:bold">
                                     7. Apa yang terjadi satu jam setelah anda minum sekaleng Coca-Cola? / Apa yang
                                     terjadi setelah meminum Coca-Cola?
                                 </button>

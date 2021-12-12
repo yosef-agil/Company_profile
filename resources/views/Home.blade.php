@@ -76,7 +76,7 @@
             </div>
             <!-- Heading & title -->
             <div class="col-md-6" >
-                <h2>Coca-Cola beli saham minuman Bodyarmor </h2>
+                <h1  style="font-weight:bold;" >Coca-Cola beli saham minuman Bodyarmor </h1>
                 <p style="text-align: justify">
                 Coca-Cola mengumumkan telah membeli saham produsen minuman olahraga Bodyarmor senilai USD 5,6 miliar atau setara Rp 79,83 triliun (asumsi kurs Rp 14.255 per dolar AS). 
                 Transaksi pembelian saham itu menjadikan akuisisi merek terbesar perseroan hingga kini.
@@ -95,7 +95,7 @@
             <div class="col-md-12">
               <div class="testimonials">
                 <div class="desc">
-                  <h3 class="judul">LEADERSHIP</h3>
+                  <h1 style="text-align:center; font-weight:bold">LEADERSHIP</h1>
                 </div>
                 <div id="carousel1" class="owl-carousel">
 

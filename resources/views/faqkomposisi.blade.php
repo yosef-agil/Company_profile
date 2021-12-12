@@ -55,7 +55,7 @@
             <div class="col-2">
             </div>
             <div class="col-8">
-                <h1 class="text-center">Komposisi</h1>
+                <h1 class="text-center" style="font-weight:bold">Komposisi</h1>
             </div>
             <div class="col-2">
             </div>
@@ -66,7 +66,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight:bold">
                                     1. Berapakah kandungan gula yang terdapat di Coca-Cola Classic?
                                 </button>
                             </h2>
@@ -80,7 +80,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight:bold">
                                     2. Berapakah kandungan gula yang terdapat di Coca-Cola Light?
                                 </button>
                             </h2>
@@ -95,7 +95,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight:bold">
                                     3. Berapakah kandungan kafein yang terdapat di Coca-Cola?
                                 </button>
                             </h2>
@@ -110,7 +110,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight:bold">
                                     4. Berapakah kandungan gula yang terdapat di Coca-Cola Zero Sugar?
                                 </button>
                             </h2>
@@ -125,7 +125,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"style="font-weight:bold">
                                     5. Berapakah kandungan gula yang terdapat di Coca-Cola Zero Sugar?
                                 </button>
                             </h2>
@@ -142,7 +142,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingSix">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" style="font-weight:bold">
                                     6. Apa saja komposisi Coca-Cola Classic?
                                 </button>
                             </h2>
@@ -168,7 +168,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingSeven">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven" style="font-weight:bold">
                                     7. Why do some Coca-Cola drinks contain caffeine?
                                 </button>
                             </h2>
@@ -189,7 +189,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingEight">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight style="font-weight:bold"">
                                     8. Apakah minuman dengan pemanis rendah kalori dan tanpa kalori, seperti Coca-Cola
                                     Zero Sugar, akan membuat berat badan saya bertambah?
                                 </button>
@@ -211,7 +211,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingNine">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine" style="font-weight:bold">
                                     9. Apakah ada zat aditif yang terkandung di dalam Coca-Cola?
                                 </button>
                             </h2>
@@ -229,7 +229,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTen">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen" style="font-weight:bold">
                                     10. Apakah karbonasi di dalam minuman aman untuk dikonsumsi?
                                 </button>
                             </h2>

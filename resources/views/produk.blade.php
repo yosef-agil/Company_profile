@@ -62,7 +62,7 @@
                 <div class="col-md-12">
                     <div class="testimonials">
                         <div class="desc">
-                            <h3 class="judul">Produk Kami</h3>
+                            <h3 class="judul" >Produk Kami</h3>
                         </div>
                         <div id="carousel1" class="owl-carousel">
 

@@ -54,7 +54,7 @@
             <div class="col-2">
             </div>
             <div class="col-8">
-                <h1 class="text-center">Sejarah</h1>
+                <h1 class="text-center" style="font-weight:bold">Sejarah</h1>
             </div>
             <div class="col-2">
             </div>
@@ -65,7 +65,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight:bold">
                                     1. Siapa yang pertama kali menemukan Coca-Cola?
                                 </button>
                             </h2>
@@ -82,7 +82,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight:bold">
                                     2. Dimanakah formula rahasia Coca-Cola disimpan?
                                 </button>
                             </h2>
@@ -108,7 +108,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight:bold">
                                     3. Apakah benar Coca-Cola pada awalnya merupakan obat?
                                 </button>
                             </h2>
@@ -123,7 +123,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight:bold">
                                     4. Kapan Coca-Cola pertama kali tersedia di Indonesia?
                                 </button>
                             </h2>
@@ -138,7 +138,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="font-weight:bold">
                                     5. Kapan The Coca-Cola Company pertama kali didirikan?
                                 </button>
                             </h2>
