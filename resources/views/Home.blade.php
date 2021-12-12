@@ -23,7 +23,7 @@
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 650px;">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent"  style="padding-left: 300px;">
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link active" style="color: white" aria-current="page" href="/home">Home</a>
@@ -48,11 +48,20 @@
         </nav>
     </div>
 
-    <div class="container-fluid" style="padding-top: 100px;padding-bottom: 100px; background-color: rgb(255, 51, 51) ">
+    <div class="container-fluid" style="padding-top: 120px;padding-bottom: 40px; padding-left: 40px; background-color: rgb(255, 51, 51) ">
         <div class="row">
-            <div class="col">
-                <img style=" width:100%;" src="{{ ('assets/beranda/b1.jpg') }}" alt="">
+            <div class="col-md-6">
+                <img class="g" src="{{ ('assets/beranda/b1.jpg') }}" alt="">
             </div>
+            <div class="col-md-6" style="padding-top: 100px;">
+            <h2 style="color: white ; ">The Coca-Cola Company</h2>
+            <p class="f">
+            Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia. <br><br>
+                <button class="btn btn-light" ><a href="/"></a>Baca lagi</button> 
+            </p>
+        
+            </div>
+            
         </div>
     </div>
 
