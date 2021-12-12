@@ -57,7 +57,7 @@
             Company</h1>
             <p class="f">
             Coca-Cola adalah minuman ringan paling populer dan paling laris dalam sejarah, serta salah satu merek yang paling dikenal di dunia. <br><br>
-            <button class="btn btn-light btn-hero" ><a href="/"></a>Baca lagi</button> 
+            <a href="/produk" class="btn btn-light btn-hero">Baca lagi</a>
             </p>
             </div>
             <div class="col-md-6 bg-cola" style="padding-right:50px;">
@@ -78,7 +78,7 @@
                     Fuga ab fugit alias ut. Repellendus esse inventore id nihil
                     accusantium a exercitationem quo libero, amet eaque.
                 </p>
-                <button class="btn btn-primary"><a href="/produk"></a>Baca lagi</button>
+                <a href="/produk" class="btn btn-dark btn-hero">Baca lagi</a>
             </div>
 
             <!-- image -->
@@ -96,7 +96,7 @@
             <div class="col-md-12">
               <div class="testimonials">
                 <div class="desc">
-                  <h3 class="judul">What They Says</h3>
+                  <h3 class="judul">Company Team</h3>
                 </div>
                 <div id="carousel1" class="owl-carousel">
 

@@ -45,9 +45,9 @@
                     Cola<span class="fs-4" style="color:#75CB79;"></span> </a>
                 <hr>
                 <ul class="nav nav-pills flex-column mb-auto">
-                    <li> <a href="/" class="nav-link text-white" aria-current="page">Dashboard</a> </li>
+                    <li> <a href="/admin" class="nav-link text-white" aria-current="page">Dashboard</a> </li>
                     <li class="nav-item"> <a href="/" class="nav-link active">Data admin</a> </li>
-                    <li> <a href="/" class="nav-link text-white">Data user</a> </li>
+                    <li> <a href="/admindata" class="nav-link text-white">Data user</a> </li>
                     <li> <a href="/" class="nav-link text-white">Report</a> </li>
                 </ul>
             </div>
