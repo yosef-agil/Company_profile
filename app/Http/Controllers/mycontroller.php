@@ -85,11 +85,16 @@ class mycontroller extends Controller
         $edit = DB::table('tb_admin')->where('id',$id)->get();
         return view('adminedit',['hasil'=>$edit]);
     }
-    
-//belum jadi cek
-    public function cek(){
-        $testi = DB::table('tb_user')->get();
-        return view('adminhome',['tb_user'=>$testi]);
+
+    public function cek(Request $rq){       
+        $username = $rq->input('nama');
+        $password = $rq->input('password'); 
+        echo $username.$password;
+        $check =  DB::table('tb_admin')->where(['nama'=>$username,'password'=>$password])->get();
+        if (count($check) > 0 ) {
+            return redirect('/admindata');
+        }
+        return redirect('/login');
     }
 
     public function adminhome(){
