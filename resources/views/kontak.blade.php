@@ -58,7 +58,7 @@
                         <div class="col-md-12">
                             <label for="formGroupExampleInput" class="form-label">Nama Lengkap</label>
                             <input type="text" class="form-control form-control-sm" name="nama"
-                                id="formGroupExampleInput" placeholder="nama lengkap">
+                                id="formGroupExampleInput" placeholder="Nama Lengkap">
                         </div>
                         <div class="col-md-12">
                             <label for="formGroupExampleInput" class="form-label">Email</label>

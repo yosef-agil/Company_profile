@@ -49,7 +49,10 @@ Route::get('/faqsejarah','App\Http\Controllers\mycontroller@functionfaqsejarah')
 Route::get('/faqisu','App\Http\Controllers\mycontroller@functionfaqisu');
 Route::get('/faqhubungi','App\Http\Controllers\mycontroller@functionfaqhubungi');
 
+//LOGIN
 Route::get('/login','App\Http\Controllers\mycontroller@functionlogin');
+Route::post('/admincek','App\Http\Controllers\mycontroller@cek');
+
 
 //SELECT
 Route::get('/admin','App\Http\Controllers\mycontroller@adminhome');
@@ -57,8 +60,13 @@ Route::get('/admindata','App\Http\Controllers\mycontroller@admindata');
 
 //INSERT
 Route::post('/insertpesan','App\Http\Controllers\mycontroller@pesan');
+Route::get('/tambahdata','App\Http\Controllers\mycontroller@tambahdata');
+Route::post('/formdata','App\Http\Controllers\mycontroller@prosestambah');
 
 //UPDATE
+Route::get('/editdata/{id}','App\Http\Controllers\mycontroller@formedit');
+Route::post('/proses_edit','App\Http\Controllers\mycontroller@editdata');
 
 //DELETE
+Route::get('/deletedata/{id}','App\Http\Controllers\mycontroller@deleteadmin');
 

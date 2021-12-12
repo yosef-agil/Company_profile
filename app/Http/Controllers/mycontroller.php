@@ -7,7 +7,6 @@ use Illuminate\Support\Facades\DB;
 
 class mycontroller extends Controller
 {
-
     public function functionhome(){
         return view('home');
     }
@@ -20,6 +19,7 @@ class mycontroller extends Controller
     public function functiontentang(){
         return view('tentang');
     }
+
     //produk
     public function functionproduk(){
         return view('produk');
@@ -74,7 +74,22 @@ class mycontroller extends Controller
         return view('faqhubungi');
     }
     public function functionlogin(){
-        return view('Homelogin');
+        return view('login');
+    }
+
+    public function tambahdata(){
+        return view('admintambah');
+    }
+
+    public function formedit($id){
+        $edit = DB::table('tb_admin')->where('id',$id)->get();
+        return view('adminedit',['hasil'=>$edit]);
+    }
+    
+//belum jadi cek
+    public function cek(){
+        $testi = DB::table('tb_user')->get();
+        return view('adminhome',['tb_user'=>$testi]);
     }
 
     public function adminhome(){
@@ -99,8 +114,34 @@ class mycontroller extends Controller
         return redirect('/kontak');
     }
 
+    public function prosestambah(Request $rq){
+        $testi = DB::table('tb_admin')->insert(
+            [
+                'nama' => $rq->nama,
+                'password' => $rq->password
+            ]
+        );
+        return redirect('/admindata');
+    }
+
+    public function editdata(Request $rq){
+        DB::table('tb_admin')->where('id',$rq->id)->update(
+            [
+                'id' => $rq->id,
+                'nama' => $rq->nama,
+                'password' => $rq->password
+            ]
+        );
+        return redirect('/admindata');
+    }
+
     public function delete($id){
         DB::table('tb_user')->where('id', $id)->delete();
-        return redirect('/kontak');
+        return redirect('/admin');
  }
+
+ public function deleteadmin($id){
+    DB::table('tb_admin')->where('id', $id)->delete();
+    return redirect('/admindata');
+}
 }

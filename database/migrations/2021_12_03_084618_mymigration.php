@@ -22,6 +22,7 @@ class Mymigration extends Migration
         });
 
         Schema::create('tb_admin', function(Blueprint $tb){
+            $tb->incerements('id');
             $tb->string('nama');
             $tb->string('password');
         });

@@ -24,13 +24,15 @@
 			<td>{{ $b->nama }}</td>
 			<td>{{ $b->password }}</td>
 			<td>
-				<a href="/editbarang/{{ $b->id }}" class="btn btn-warning">Edit</a> |
-				<a href="/deletebarang/{{ $b->id }}" class="btn btn-danger">Delete</a>
+				<a href="/editdata/{{ $b->id }}" class="btn btn-warning">Edit</a> |
+				<a href="/deletedata/{{ $b->id }}" class="btn btn-danger">Delete</a>
+				
 			</td>
 		</tr>
 		@endforeach
 	</table>
     </div>
+	<a href="/tambahdata" class="btn btn-danger">Tambah</a>
     <div class="col-1">
     </div>
     
