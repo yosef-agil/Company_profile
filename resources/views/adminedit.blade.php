@@ -2,6 +2,7 @@
 <head>
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
+    <title>Edit data Admin</title>
 
 	   <style>
         header {
@@ -43,10 +44,8 @@
                     Cola<span class="fs-4" style="color:#75CB79;"></span> </a>
                 <hr>
                 <ul class="nav nav-pills flex-column mb-auto">
-                    <li> <a href="/" class="nav-link text-white" aria-current="page">Dashboard</a> </li>
-                    <li class="nav-item"> <a href="/" class="nav-link active">Data admin</a> </li>
-                    <li> <a href="/" class="nav-link text-white">Data user</a> </li>
-                    <li> <a href="/" class="nav-link text-white">Report</a> </li>
+                    <li class="nav-item"> <a href="/admindata" class="nav-link active">Data admin</a> </li>
+                    <li> <a href="/admin" class="nav-link text-white">Data Pesan</a> </li>
                 </ul>
             </div>
         </div>
@@ -57,7 +56,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h4>Edit data</h4>
+                    <h4>Edit data Admin</h4>
                 </div>
                 <hr style="margin-top:25px;">
             </div>

@@ -3,6 +3,7 @@
 	<link href="{{asset('/css/bootstrap.min.css')}}" rel="stylesheet">
   	<link href="{{asset('/css/master.css')}}" rel="stylesheet">
 	<script src="{{asset('/js/bootstrap.bundle.min.js')}}"></script>
+    <title>Data Pesan</title>
 
     <style>
         header {
